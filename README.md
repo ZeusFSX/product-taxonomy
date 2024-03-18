@@ -17,9 +17,9 @@
 - [🕹️ Interactive explorer](#️-interactive-explorer)
 - [📚 Taxonomy overview](#-taxonomy-overview)
 - [🧭 Getting started](#-getting-started)
-  - [🧩 How to integrate with the taxonomy: `dist/`](#-how-to-integrate-with-the-taxonomy-dist)
-  - [🧑🏼‍🏫 How to make changes to the taxonomy: `data/`](#-how-to-make-changes-to-the-taxonomy-data)
-  - [👩🏼‍💻 How to evolve the system: `dev/`](#-how-to-evolve-the-system-dev)
+  - [🧩 How to integrate with the taxonomy: `releases` branch (you're here!)](#-how-to-integrate-with-the-taxonomy-releases-branch-youre-here)
+  - [🧑🏼‍🏫 How to make changes to the taxonomy: `main` @ `data/`](#-how-to-make-changes-to-the-taxonomy-main--data)
+  - [👩🏼‍💻 How to evolve the system: `main` @ `/`](#-how-to-evolve-the-system-main--)
 - [📅 Releases](#-releases)
 - [📜 License](#-license)
 
@@ -39,27 +39,29 @@ This repository is the home of Shopify's Standard Product Taxonomy. It houses th
 
 We've structured it to be as user-friendly as possible, whether you're looking to integrate the taxonomy into your own system, suggest changes, or delve into how it's developed and maintained.
 
-### 🧩 How to integrate with the taxonomy: `dist/`
+### 🧩 How to integrate with the taxonomy: `releases` branch (you're here!)
 
-Dive straight into `dist/` to find the files you need and integrate this taxonomy into your system.
+Dive straight into `releases` to find the files you need and integrate this taxonomy into your system.
 
 We're working on a variety of formats to make it easy to integrate with your systems. Today we have `txt` and `json` formats, and we're working on more. If you have a specific format you'd like to see, please open an issue and let us know!
 
-### 🧑🏼‍🏫 How to make changes to the taxonomy: `data/`
+### 🧑🏼‍🏫 How to make changes to the taxonomy: [`main` @ `data/`](https://github.com/Shopify/product-taxonomy/tree/main/data)
 
 > **🔵 Note**: While we are in preview we are not actively seeking PRs.
 
 Everything comes from the source-of-truth in `data/`. This is where you can submit PRs to change the taxonomy itself.
 
-### 👩🏼‍💻 How to evolve the system: `dev/`
+### 👩🏼‍💻 How to evolve the system: [`main` @ `/`](https://github.com/Shopify/product-taxonomy/tree/main)
 
-Dive deep by hopping straight into `dev/` to see how the taxonomy is generated and maintained. This is where the magic happens.
+You can see how how the taxonomy is generated and maintained. This is where the magic happens.
 
-For more information, see the [dev readme](./dev/README.md)
+For more information, see the [dev README](https://github.com/Shopify/product-taxonomy/blob/main/README.md)
 
 ## 📅 Releases
 
-We'll manage releases on Github and generally follow [semver](https://semver.org/). You can always find the current version in [`VERSION`](./VERSION).
+You can always find the current version in [`VERSION`](./VERSION).
+
+We follow time-based releases consistent with [Shopify's API release schedule](https://shopify.dev/docs/api/usage/versioning#release-schedule) _at most_. That means a release every 3 months at the beginning of the quarter. Version names are date-based to be meaningful and semantically unambiguous (for example, `2024-01`).
 
 ## 📜 License
 

@@ -59,10 +59,10 @@ For more information, see the [dev README](https://github.com/Shopify/product-ta
 
 ## 📅 Releases
 
-You can always find the current published version in [`VERSION`](https://github.com/Shopify/product-taxonomy/blob/main//VERSION).
+You can always find the current published version in [`VERSION`](./VERSION). The changelog is available in [`CHANGELOG.md`](./CHANGELOG.md).
 
 We follow time-based releases consistent with [Shopify's API release schedule](https://shopify.dev/docs/api/usage/versioning#release-schedule) _at most_. That means a release every 3 months at the beginning of the quarter. Version names are date-based to be meaningful and semantically unambiguous (for example, `2024-01`).
 
 ## 📜 License
 
-Shopify's Product Taxonomy is released under the [MIT License](https://github.com/Shopify/product-taxonomy/blob/main//LICENSE). So go ahead, explore, play, and build something awesome!
+Shopify's Product Taxonomy is released under the [MIT License](./LICENSE). So go ahead, explore, play, and build something awesome!

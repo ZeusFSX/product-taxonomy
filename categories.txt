@@ -4158,16 +4158,16 @@ gid://shopify/Taxonomy/Category/fr-4-3-11         : Furniture > Cabinets & Stora
 gid://shopify/Taxonomy/Category/fr-4-3-12         : Furniture > Cabinets & Storage > China Cabinets & Hutches > Sideboards with Hutch
 gid://shopify/Taxonomy/Category/fr-4-3-13         : Furniture > Cabinets & Storage > China Cabinets & Hutches > Tall Display Cabinets
 gid://shopify/Taxonomy/Category/fr-4-3-14         : Furniture > Cabinets & Storage > China Cabinets & Hutches > Wall-Mounted Hutches
-gid://shopify/Taxonomy/Category/fr-4-4            : Furniture > Cabinets & Storage > Closets & Closet Accessories
-gid://shopify/Taxonomy/Category/fr-4-4-1          : Furniture > Cabinets & Storage > Closets & Closet Accessories > Closet Baskets
-gid://shopify/Taxonomy/Category/fr-4-4-2          : Furniture > Cabinets & Storage > Closets & Closet Accessories > Closet Bins
-gid://shopify/Taxonomy/Category/fr-4-4-3          : Furniture > Cabinets & Storage > Closets & Closet Accessories > Closet Doors
-gid://shopify/Taxonomy/Category/fr-4-4-4          : Furniture > Cabinets & Storage > Closets & Closet Accessories > Closet Drawers
-gid://shopify/Taxonomy/Category/fr-4-4-5          : Furniture > Cabinets & Storage > Closets & Closet Accessories > Closet Rods
-gid://shopify/Taxonomy/Category/fr-4-4-6          : Furniture > Cabinets & Storage > Closets & Closet Accessories > Closet Shelves
-gid://shopify/Taxonomy/Category/fr-4-4-7          : Furniture > Cabinets & Storage > Closets & Closet Accessories > Kids' Closets
-gid://shopify/Taxonomy/Category/fr-4-4-8          : Furniture > Cabinets & Storage > Closets & Closet Accessories > Reach-In Closets
-gid://shopify/Taxonomy/Category/fr-4-4-9          : Furniture > Cabinets & Storage > Closets & Closet Accessories > Walk-In Closets
+gid://shopify/Taxonomy/Category/fr-4-4            : Furniture > Cabinets & Storage > Closets
+gid://shopify/Taxonomy/Category/fr-4-4-1          : Furniture > Cabinets & Storage > Closets > Closet Baskets
+gid://shopify/Taxonomy/Category/fr-4-4-2          : Furniture > Cabinets & Storage > Closets > Closet Bins
+gid://shopify/Taxonomy/Category/fr-4-4-3          : Furniture > Cabinets & Storage > Closets > Closet Doors
+gid://shopify/Taxonomy/Category/fr-4-4-4          : Furniture > Cabinets & Storage > Closets > Closet Drawers
+gid://shopify/Taxonomy/Category/fr-4-4-5          : Furniture > Cabinets & Storage > Closets > Closet Rods
+gid://shopify/Taxonomy/Category/fr-4-4-6          : Furniture > Cabinets & Storage > Closets > Closet Shelves
+gid://shopify/Taxonomy/Category/fr-4-4-7          : Furniture > Cabinets & Storage > Closets > Kids' Closets
+gid://shopify/Taxonomy/Category/fr-4-4-8          : Furniture > Cabinets & Storage > Closets > Reach-In Closets
+gid://shopify/Taxonomy/Category/fr-4-4-9          : Furniture > Cabinets & Storage > Closets > Walk-In Closets
 gid://shopify/Taxonomy/Category/fr-4-5            : Furniture > Cabinets & Storage > Dressers
 gid://shopify/Taxonomy/Category/fr-4-6            : Furniture > Cabinets & Storage > File Cabinets
 gid://shopify/Taxonomy/Category/fr-4-7            : Furniture > Cabinets & Storage > Ironing Centers

@@ -1,4 +1,6 @@
-# Shopify Product Taxonomy - Categories: 0.11.0
+# Shopify Product Taxonomy - Categories: 0.12.0
+# Format: {GID} : {Ancestor name} > ... > {Category name}
+
 gid://shopify/TaxonomyCategory/ap                : Animals & Pet Supplies
 gid://shopify/TaxonomyCategory/ap-1              : Animals & Pet Supplies > Live Animals
 gid://shopify/TaxonomyCategory/ap-2              : Animals & Pet Supplies > Pet Supplies

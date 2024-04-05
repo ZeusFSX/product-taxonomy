@@ -20,6 +20,7 @@
 - [📚 Taxonomy overview](#-taxonomy-overview)
 - [🧭 Getting started](#-getting-started)
   - [🧩 How to integrate with the taxonomy](#-how-to-integrate-with-the-taxonomy)
+    - [🗺️ Mapping to other taxonomies](#-mapping-to-other-taxonomies)
   - [🧑🏼‍🏫 How to make changes to the taxonomy](#-how-to-make-changes-to-the-taxonomy)
   - [👩🏼‍💻 How to evolve the system](#-how-to-evolve-the-system)
 - [🤿 Diving in](#-diving-in)
@@ -49,6 +50,10 @@ We've structured it to be as user-friendly as possible, whether you're looking t
 Dive straight into [`releases` branch](https://github.com/Shopify/product-taxonomy/tree/releases) to find the files you need and integrate this taxonomy into your system.
 
 We're working on a variety of formats to make it easy to integrate with your systems. Today we have `txt` and `json` formats, and we're working on more. If you have a specific format you'd like to see, please open an issue and let us know!
+
+#### 🗺️ Mapping to other taxonomies
+
+To make it easier to integrate with the taxonomy, we have also included a set of data called _mappings_. These are rules that can be used to convert between categories and attributes in the Shopify taxonomy to categories and attributes of another taxonomy. For more on mappings see documentaton in the [integrations](./data/integrations/README.md) directory.
 
 ### 🧑🏼‍🏫 How to make changes to the taxonomy
 
@@ -107,12 +112,13 @@ For your own explorations, here's a map of the land:
 │   ├── models/          # most models are simple data objects
 │   │   ├── category.rb      # node-based tree impl for categories
 │   │   └── ...
-│   └── serializers/
-│       ├── data/        # object-centric, to read/write source-data files
-|       ├── data/        # object-centric, for docs site
-│       └── dist/        # file-type-centric, for dist files
-│           ├── json.rb
-│           └── text.rb
+│   ├── serializers/
+│   │   ├── data/        # object-centric, to read/write source-data files
+│   │   ├── docs/        # object-centric, for docs site
+│   │   └── dist/        # file-type-centric, for dist files
+│   │       ├── json.rb
+│   │       └── text.rb
+│   └── services/        # classes for abstracting implementation details
 ├── bin/
 │   ├── generate_dist    # file IO for /data → /dist
 │   └── generate_docs    # file IO for /dist → /docs

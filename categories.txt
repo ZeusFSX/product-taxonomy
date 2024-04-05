@@ -1,4 +1,4 @@
-# Shopify Product Taxonomy - Categories: 0.12.0
+# Shopify Product Taxonomy - Categories: 0.13.0
 # Format: {GID} : {Ancestor name} > ... > {Category name}
 
 gid://shopify/TaxonomyCategory/ap                : Animals & Pet Supplies
@@ -4372,6 +4372,7 @@ gid://shopify/TaxonomyCategory/fr-24-5           : Furniture > Tables > Kotatsu
 gid://shopify/TaxonomyCategory/fr-24-6           : Furniture > Tables > Nightstands
 gid://shopify/TaxonomyCategory/fr-24-7           : Furniture > Tables > Poker & Game Tables
 gid://shopify/TaxonomyCategory/fr-24-8           : Furniture > Tables > Sewing Machine Tables
+gid://shopify/TaxonomyCategory/gc                : Gift Cards
 gid://shopify/TaxonomyCategory/ha                : Hardware
 gid://shopify/TaxonomyCategory/ha-1              : Hardware > Building Consumables
 gid://shopify/TaxonomyCategory/ha-1-1            : Hardware > Building Consumables > Chemicals
@@ -7990,6 +7991,14 @@ gid://shopify/TaxonomyCategory/os-14             : Office Supplies > Shipping Su
 gid://shopify/TaxonomyCategory/os-14-1           : Office Supplies > Shipping Supplies > Moving & Shipping Boxes
 gid://shopify/TaxonomyCategory/os-14-2           : Office Supplies > Shipping Supplies > Packing Materials
 gid://shopify/TaxonomyCategory/os-14-3           : Office Supplies > Shipping Supplies > Packing Tape
+gid://shopify/TaxonomyCategory/pa                : Product Add-Ons
+gid://shopify/TaxonomyCategory/pa-1              : Product Add-Ons > Extended Warranties
+gid://shopify/TaxonomyCategory/pa-2              : Product Add-Ons > Installation Services
+gid://shopify/TaxonomyCategory/pa-3              : Product Add-Ons > Maintenance Plans
+gid://shopify/TaxonomyCategory/pa-4              : Product Add-Ons > Product Customization
+gid://shopify/TaxonomyCategory/pa-5              : Product Add-Ons > Product Upgrades
+gid://shopify/TaxonomyCategory/pa-6              : Product Add-Ons > Shipping Insurance
+gid://shopify/TaxonomyCategory/pa-7              : Product Add-Ons > Subscription Services
 gid://shopify/TaxonomyCategory/rc                : Religious & Ceremonial
 gid://shopify/TaxonomyCategory/rc-1              : Religious & Ceremonial > Memorial Ceremony Supplies
 gid://shopify/TaxonomyCategory/rc-1-1            : Religious & Ceremonial > Memorial Ceremony Supplies > Memorial Urns

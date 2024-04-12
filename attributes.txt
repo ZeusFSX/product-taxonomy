@@ -1,4 +1,4 @@
-# Shopify Product Taxonomy - Attributes: 0.14.0
+# Shopify Product Taxonomy - Attributes: 0.15.0
 # Format: {GID} : {Attribute name}
 
 gid://shopify/TaxonomyAttribute/2906 : 3D glasses material
@@ -8,26 +8,30 @@ gid://shopify/TaxonomyAttribute/2184 : Abrasive material
 gid://shopify/TaxonomyAttribute/1460 : Absinthe style
 gid://shopify/TaxonomyAttribute/1461 : Absinthe variety
 gid://shopify/TaxonomyAttribute/894  : Absorbency level
+gid://shopify/TaxonomyAttribute/2972 : Absorbent hygiene product features
 gid://shopify/TaxonomyAttribute/2529 : Academic level
 gid://shopify/TaxonomyAttribute/2956 : Accessory material
 gid://shopify/TaxonomyAttribute/50   : Accessory size
 gid://shopify/TaxonomyAttribute/2461 : Accordion tuning
 gid://shopify/TaxonomyAttribute/1598 : Active ingredient
+gid://shopify/TaxonomyAttribute/2995 : Activewear clothing features
 gid://shopify/TaxonomyAttribute/5    : Activity
 gid://shopify/TaxonomyAttribute/1547 : Activity tracker design
 gid://shopify/TaxonomyAttribute/1543 : Acupuncture model format
 gid://shopify/TaxonomyAttribute/1544 : Acupuncture model type
-gid://shopify/TaxonomyAttribute/2273 : Additional features
 gid://shopify/TaxonomyAttribute/2319 : Adhesive type
 gid://shopify/TaxonomyAttribute/2425 : Adjustability
 gid://shopify/TaxonomyAttribute/30   : Age group
 gid://shopify/TaxonomyAttribute/2274 : Age restrictions
 gid://shopify/TaxonomyAttribute/2708 : Air freshener form
+gid://shopify/TaxonomyAttribute/3182 : Air mattress features
+gid://shopify/TaxonomyAttribute/3186 : Airsoft equipment included
 gid://shopify/TaxonomyAttribute/2287 : Album type
 gid://shopify/TaxonomyAttribute/1362 : Alert type
 gid://shopify/TaxonomyAttribute/1451 : Allergen information
 gid://shopify/TaxonomyAttribute/1577 : Allergen test type
 gid://shopify/TaxonomyAttribute/1631 : Allergens
+gid://shopify/TaxonomyAttribute/3138 : Allergy-friendly features
 gid://shopify/TaxonomyAttribute/1800 : Amplifier class
 gid://shopify/TaxonomyAttribute/2690 : Amplifier configuration
 gid://shopify/TaxonomyAttribute/1808 : Amplifier/Booster suitable location
@@ -44,6 +48,7 @@ gid://shopify/TaxonomyAttribute/1316 : Application method
 gid://shopify/TaxonomyAttribute/1639 : Applicator material
 gid://shopify/TaxonomyAttribute/2317 : Applique shape
 gid://shopify/TaxonomyAttribute/2314 : Applique/Patch shape
+gid://shopify/TaxonomyAttribute/2980 : Aquarium filter features
 gid://shopify/TaxonomyAttribute/1708 : Aquarium light spectrum
 gid://shopify/TaxonomyAttribute/1302 : Archery activity
 gid://shopify/TaxonomyAttribute/2888 : Archery equipment included
@@ -64,10 +69,13 @@ gid://shopify/TaxonomyAttribute/1267 : Attachment type
 gid://shopify/TaxonomyAttribute/1806 : Audio D/A converter (DAC)
 gid://shopify/TaxonomyAttribute/1822 : Audio codecs/formats supported
 gid://shopify/TaxonomyAttribute/1813 : Audio connectivity
+gid://shopify/TaxonomyAttribute/3075 : Audio converter features
 gid://shopify/TaxonomyAttribute/1801 : Audio output channel
 gid://shopify/TaxonomyAttribute/1802 : Audio output format
+gid://shopify/TaxonomyAttribute/3066 : Audio player/recorder features
 gid://shopify/TaxonomyAttribute/1818 : Audio purpose
 gid://shopify/TaxonomyAttribute/1803 : Audio technology
+gid://shopify/TaxonomyAttribute/3074 : Audio/Scan converter features
 gid://shopify/TaxonomyAttribute/2374 : Authenticity
 gid://shopify/TaxonomyAttribute/2016 : Auto focusing modes
 gid://shopify/TaxonomyAttribute/2613 : Autoclave sterilization method
@@ -79,12 +87,19 @@ gid://shopify/TaxonomyAttribute/1426 : Awning construction type
 gid://shopify/TaxonomyAttribute/2823 : Awning design
 gid://shopify/TaxonomyAttribute/1836 : BIOS type
 gid://shopify/TaxonomyAttribute/1759 : Baby drink packaging
+gid://shopify/TaxonomyAttribute/3028 : Baby equipment safety features
 gid://shopify/TaxonomyAttribute/1758 : Baby food flavor
 gid://shopify/TaxonomyAttribute/1761 : Baby formula format
 gid://shopify/TaxonomyAttribute/1717 : Baby gift items included
 gid://shopify/TaxonomyAttribute/1720 : Baby health items included
+gid://shopify/TaxonomyAttribute/3026 : Baby monitor features
 gid://shopify/TaxonomyAttribute/1762 : Baby snack flavor
 gid://shopify/TaxonomyAttribute/1763 : Baby snack texture
+gid://shopify/TaxonomyAttribute/3030 : Baby/Toddler car seat features
+gid://shopify/TaxonomyAttribute/2997 : Baby/Toddler clothing features
+gid://shopify/TaxonomyAttribute/3029 : Baby/Toddler equipment safety features
+gid://shopify/TaxonomyAttribute/3103 : Baby/Toddler furniture features
+gid://shopify/TaxonomyAttribute/3107 : Baby/Toddler seat features
 gid://shopify/TaxonomyAttribute/1531 : Back type
 gid://shopify/TaxonomyAttribute/2047 : Background design
 gid://shopify/TaxonomyAttribute/2185 : Backing material
@@ -94,7 +109,10 @@ gid://shopify/TaxonomyAttribute/2958 : Bag closure
 gid://shopify/TaxonomyAttribute/2222 : Bag strap type
 gid://shopify/TaxonomyAttribute/2725 : Bag type
 gid://shopify/TaxonomyAttribute/1983 : Bag/Case closure
+gid://shopify/TaxonomyAttribute/3006 : Bag/Case features
 gid://shopify/TaxonomyAttribute/2784 : Bag/Case material
+gid://shopify/TaxonomyAttribute/3100 : Bakery items included
+gid://shopify/TaxonomyAttribute/3146 : Bakeware features
 gid://shopify/TaxonomyAttribute/1394 : Bakeware pieces included
 gid://shopify/TaxonomyAttribute/2813 : Bakeware shape
 gid://shopify/TaxonomyAttribute/1486 : Baking purpose
@@ -122,9 +140,12 @@ gid://shopify/TaxonomyAttribute/2462 : Bass button configuration
 gid://shopify/TaxonomyAttribute/2845 : Bat material
 gid://shopify/TaxonomyAttribute/1209 : Bat standard
 gid://shopify/TaxonomyAttribute/2141 : Bathtub base design
+gid://shopify/TaxonomyAttribute/3117 : Bathtub features
 gid://shopify/TaxonomyAttribute/2142 : Bathtub skirt shape
 gid://shopify/TaxonomyAttribute/2398 : Baton grip design
 gid://shopify/TaxonomyAttribute/1926 : Battery cell type
+gid://shopify/TaxonomyAttribute/3087 : Battery features
+gid://shopify/TaxonomyAttribute/3196 : Battery management features
 gid://shopify/TaxonomyAttribute/1682 : Battery size
 gid://shopify/TaxonomyAttribute/1856 : Battery technology
 gid://shopify/TaxonomyAttribute/1571 : Battery type
@@ -132,6 +153,7 @@ gid://shopify/TaxonomyAttribute/2318 : Bead shape
 gid://shopify/TaxonomyAttribute/2401 : Beat subdivisions
 gid://shopify/TaxonomyAttribute/2424 : Beater head size
 gid://shopify/TaxonomyAttribute/1546 : Bed pan type
+gid://shopify/TaxonomyAttribute/3108 : Bed/Frame features
 gid://shopify/TaxonomyAttribute/1441 : Bedding pieces included
 gid://shopify/TaxonomyAttribute/1259 : Bedding size
 gid://shopify/TaxonomyAttribute/1453 : Beer style
@@ -145,23 +167,25 @@ gid://shopify/TaxonomyAttribute/2213 : Bevel type
 gid://shopify/TaxonomyAttribute/1976 : Beverage product form
 gid://shopify/TaxonomyAttribute/1771 : Bib design
 gid://shopify/TaxonomyAttribute/1275 : Bicycle brake type
+gid://shopify/TaxonomyAttribute/3184 : Bicycle features
 gid://shopify/TaxonomyAttribute/2156 : Bidet mounting type
 gid://shopify/TaxonomyAttribute/2233 : Binder ring shape
 gid://shopify/TaxonomyAttribute/1319 : Binding mount
 gid://shopify/TaxonomyAttribute/2237 : Binding style
 gid://shopify/TaxonomyAttribute/2034 : Binocular design
 gid://shopify/TaxonomyAttribute/2959 : Binocular/Monocular design
+gid://shopify/TaxonomyAttribute/3122 : Biometric monitor accessory features
 gid://shopify/TaxonomyAttribute/2508 : Birthday candle design
-gid://shopify/TaxonomyAttribute/1457 : Bitter variery
+gid://shopify/TaxonomyAttribute/3099 : Bitter variety
 gid://shopify/TaxonomyAttribute/1220 : Blade curve
 gid://shopify/TaxonomyAttribute/2189 : Blade design
 gid://shopify/TaxonomyAttribute/1388 : Blade material
-gid://shopify/TaxonomyAttribute/2598 : Blade shape
 gid://shopify/TaxonomyAttribute/1251 : Blade type
 gid://shopify/TaxonomyAttribute/2614 : Blending type
 gid://shopify/TaxonomyAttribute/2808 : Blind/Shade style
 gid://shopify/TaxonomyAttribute/1578 : Blood test kit components
 gid://shopify/TaxonomyAttribute/1255 : Board concave shape
+gid://shopify/TaxonomyAttribute/3191 : Board game features
 gid://shopify/TaxonomyAttribute/2759 : Board game mechanics
 gid://shopify/TaxonomyAttribute/2092 : Board material
 gid://shopify/TaxonomyAttribute/2264 : Board mounting type
@@ -173,6 +197,7 @@ gid://shopify/TaxonomyAttribute/1563 : Body area
 gid://shopify/TaxonomyAttribute/2744 : Body color
 gid://shopify/TaxonomyAttribute/2190 : Body material
 gid://shopify/TaxonomyAttribute/1678 : Body/Facial hair type
+gid://shopify/TaxonomyAttribute/3177 : Bodyboard features
 gid://shopify/TaxonomyAttribute/1371 : Boiler system
 gid://shopify/TaxonomyAttribute/2123 : Bolt form
 gid://shopify/TaxonomyAttribute/2887 : Bolt material
@@ -187,19 +212,26 @@ gid://shopify/TaxonomyAttribute/2015 : Borescope design
 gid://shopify/TaxonomyAttribute/2390 : Bottle closure type
 gid://shopify/TaxonomyAttribute/1768 : Bottle design
 gid://shopify/TaxonomyAttribute/2901 : Bottle material
+gid://shopify/TaxonomyAttribute/3045 : Bottle sterilizer features
 gid://shopify/TaxonomyAttribute/1691 : Bottle type
+gid://shopify/TaxonomyAttribute/3043 : Bottle warmer features
+gid://shopify/TaxonomyAttribute/3044 : Bottle warmer/sterilizer features
 gid://shopify/TaxonomyAttribute/2221 : Bottle/Container closure
 gid://shopify/TaxonomyAttribute/2568 : Bottom surface material
+gid://shopify/TaxonomyAttribute/3188 : Bow features
 gid://shopify/TaxonomyAttribute/2938 : Bow hair material
 gid://shopify/TaxonomyAttribute/2970 : Bow material
+gid://shopify/TaxonomyAttribute/3187 : Bow/Crossbow features
 gid://shopify/TaxonomyAttribute/2726 : Box type
 gid://shopify/TaxonomyAttribute/1195 : Bra closure type
 gid://shopify/TaxonomyAttribute/1196 : Bra coverage
+gid://shopify/TaxonomyAttribute/2996 : Bra features
 gid://shopify/TaxonomyAttribute/1191 : Bra strap type
 gid://shopify/TaxonomyAttribute/1192 : Bra support level
 gid://shopify/TaxonomyAttribute/2115 : Bracket/Brace design
 gid://shopify/TaxonomyAttribute/1462 : Brandy variety
 gid://shopify/TaxonomyAttribute/1663 : Breath sprays certifications
+gid://shopify/TaxonomyAttribute/3090 : Bridge/Router advanced features
 gid://shopify/TaxonomyAttribute/2228 : Brightness levels
 gid://shopify/TaxonomyAttribute/1408 : Bristle material
 gid://shopify/TaxonomyAttribute/1603 : Bristle shape
@@ -217,21 +249,26 @@ gid://shopify/TaxonomyAttribute/1435 : Bulb size
 gid://shopify/TaxonomyAttribute/1436 : Bulb type
 gid://shopify/TaxonomyAttribute/2573 : Bulldozer blade type
 gid://shopify/TaxonomyAttribute/2632 : Bullet protection level
+gid://shopify/TaxonomyAttribute/3068 : Bullhorn features
 gid://shopify/TaxonomyAttribute/2566 : Bullion form
 gid://shopify/TaxonomyAttribute/2569 : Burner material
 gid://shopify/TaxonomyAttribute/1292 : Butt cap material
 gid://shopify/TaxonomyAttribute/2295 : Button/Snap closure type
+gid://shopify/TaxonomyAttribute/3123 : CBD ingredients
 gid://shopify/TaxonomyAttribute/1790 : Cabinet type
 gid://shopify/TaxonomyAttribute/2908 : Cable housing material
 gid://shopify/TaxonomyAttribute/1892 : Cable shielding
 gid://shopify/TaxonomyAttribute/1276 : Cable type
 gid://shopify/TaxonomyAttribute/2720 : Cage type
+gid://shopify/TaxonomyAttribute/3159 : Calculator features
 gid://shopify/TaxonomyAttribute/2238 : Calendar format
+gid://shopify/TaxonomyAttribute/3153 : Calendar/Organizer features
 gid://shopify/TaxonomyAttribute/2018 : Camera HD type
 gid://shopify/TaxonomyAttribute/2006 : Camera attachment
 gid://shopify/TaxonomyAttribute/2002 : Camera button/knob type
 gid://shopify/TaxonomyAttribute/2000 : Camera control type
 gid://shopify/TaxonomyAttribute/2017 : Camera display technology
+gid://shopify/TaxonomyAttribute/3062 : Camera features
 gid://shopify/TaxonomyAttribute/1997 : Camera gear type
 gid://shopify/TaxonomyAttribute/2909 : Camera lens material
 gid://shopify/TaxonomyAttribute/1979 : Camera lens type
@@ -271,10 +308,14 @@ gid://shopify/TaxonomyAttribute/2691 : Cassette adapter type
 gid://shopify/TaxonomyAttribute/1699 : Cat age group
 gid://shopify/TaxonomyAttribute/1702 : Cat litter formula
 gid://shopify/TaxonomyAttribute/2320 : Celebration type
-gid://shopify/TaxonomyAttribute/1854 : Certifications & standards
 gid://shopify/TaxonomyAttribute/98   : Chain link type
 gid://shopify/TaxonomyAttribute/2728 : Chain type
+gid://shopify/TaxonomyAttribute/3048 : Chair features
+gid://shopify/TaxonomyAttribute/3049 : Chair/Sofa features
 gid://shopify/TaxonomyAttribute/2265 : Chalkboard surface
+gid://shopify/TaxonomyAttribute/3034 : Changing mat features
+gid://shopify/TaxonomyAttribute/3035 : Changing mat/tray features
+gid://shopify/TaxonomyAttribute/3036 : Changing tray features
 gid://shopify/TaxonomyAttribute/2714 : Charger type
 gid://shopify/TaxonomyAttribute/2682 : Charging cable type
 gid://shopify/TaxonomyAttribute/2683 : Charging level
@@ -292,6 +333,7 @@ gid://shopify/TaxonomyAttribute/2574 : Chipper technology
 gid://shopify/TaxonomyAttribute/2596 : Chiropractic table design
 gid://shopify/TaxonomyAttribute/2192 : Chuck type
 gid://shopify/TaxonomyAttribute/1502 : Cigar body
+gid://shopify/TaxonomyAttribute/3070 : Circuit board features
 gid://shopify/TaxonomyAttribute/2164 : Circuit breaker design
 gid://shopify/TaxonomyAttribute/2163 : Circuit breaker panel form
 gid://shopify/TaxonomyAttribute/2165 : Circuit breaker type
@@ -311,7 +353,7 @@ gid://shopify/TaxonomyAttribute/2248 : Clip type
 gid://shopify/TaxonomyAttribute/1442 : Closure style
 gid://shopify/TaxonomyAttribute/80   : Closure type
 gid://shopify/TaxonomyAttribute/2779 : Clothing accessory material
-gid://shopify/TaxonomyAttribute/1287 : Clothing type
+gid://shopify/TaxonomyAttribute/3001 : Clothing features
 gid://shopify/TaxonomyAttribute/1298 : Club subset
 gid://shopify/TaxonomyAttribute/1299 : Club type
 gid://shopify/TaxonomyAttribute/2070 : Coating/Sealant application
@@ -330,6 +372,7 @@ gid://shopify/TaxonomyAttribute/2012 : Collar/Mount design
 gid://shopify/TaxonomyAttribute/1    : Color
 gid://shopify/TaxonomyAttribute/1962 : Color accuracy standards
 gid://shopify/TaxonomyAttribute/1989 : Color saturation
+gid://shopify/TaxonomyAttribute/3072 : Communication device features
 gid://shopify/TaxonomyAttribute/2555 : Communication protocols
 gid://shopify/TaxonomyAttribute/2871 : Compass style
 gid://shopify/TaxonomyAttribute/1888 : Compatible HDCP
@@ -361,7 +404,6 @@ gid://shopify/TaxonomyAttribute/1420 : Compatible gardening tool
 gid://shopify/TaxonomyAttribute/1642 : Compatible hair color
 gid://shopify/TaxonomyAttribute/1430 : Compatible hammock design
 gid://shopify/TaxonomyAttribute/2457 : Compatible harmonica type
-gid://shopify/TaxonomyAttribute/1395 : Compatible hob type
 gid://shopify/TaxonomyAttribute/2409 : Compatible instrument
 gid://shopify/TaxonomyAttribute/2421 : Compatible keyboard configuration
 gid://shopify/TaxonomyAttribute/1336 : Compatible lock type
@@ -387,6 +429,7 @@ gid://shopify/TaxonomyAttribute/1748 : Compatible seat type
 gid://shopify/TaxonomyAttribute/1640 : Compatible shoe size
 gid://shopify/TaxonomyAttribute/2667 : Compatible software platform
 gid://shopify/TaxonomyAttribute/2524 : Compatible special effects device
+gid://shopify/TaxonomyAttribute/3148 : Compatible stove top type
 gid://shopify/TaxonomyAttribute/2433 : Compatible string instrument
 gid://shopify/TaxonomyAttribute/1750 : Compatible stroller type
 gid://shopify/TaxonomyAttribute/1369 : Compatible vacuum type
@@ -400,6 +443,8 @@ gid://shopify/TaxonomyAttribute/1966 : Compression format
 gid://shopify/TaxonomyAttribute/1595 : Compression level
 gid://shopify/TaxonomyAttribute/1897 : Computer accessories included
 gid://shopify/TaxonomyAttribute/1871 : Computer form
+gid://shopify/TaxonomyAttribute/3078 : Computer server features
+gid://shopify/TaxonomyAttribute/3077 : Computer specialized features
 gid://shopify/TaxonomyAttribute/2463 : Concertina button configuration
 gid://shopify/TaxonomyAttribute/2360 : Condition
 gid://shopify/TaxonomyAttribute/1652 : Conditioner effect
@@ -413,7 +458,6 @@ gid://shopify/TaxonomyAttribute/1830 : Connector gender
 gid://shopify/TaxonomyAttribute/1969 : Console system
 gid://shopify/TaxonomyAttribute/1629 : Constitutive ingredients
 gid://shopify/TaxonomyAttribute/2770 : Construction set theme
-gid://shopify/TaxonomyAttribute/2671 : Content features
 gid://shopify/TaxonomyAttribute/1990 : Contrast
 gid://shopify/TaxonomyAttribute/1955 : Contrast ratio (typical)
 gid://shopify/TaxonomyAttribute/2413 : Control functions
@@ -426,10 +470,13 @@ gid://shopify/TaxonomyAttribute/1986 : Converter functionality
 gid://shopify/TaxonomyAttribute/2584 : Conveyor operation
 gid://shopify/TaxonomyAttribute/1493 : Cooking method
 gid://shopify/TaxonomyAttribute/1487 : Cooking wine variety
+gid://shopify/TaxonomyAttribute/3149 : Cookware features
+gid://shopify/TaxonomyAttribute/3147 : Cookware/Bakeware features
 gid://shopify/TaxonomyAttribute/2811 : Cookware/Bakeware material
 gid://shopify/TaxonomyAttribute/1872 : Cooling technology
 gid://shopify/TaxonomyAttribute/2118 : Cord fastening system
 gid://shopify/TaxonomyAttribute/1973 : Core material
+gid://shopify/TaxonomyAttribute/3155 : Corrector features
 gid://shopify/TaxonomyAttribute/2494 : Corsage/Boutonnière design
 gid://shopify/TaxonomyAttribute/1857 : Cosmetic condition
 gid://shopify/TaxonomyAttribute/1614 : Cosmetic finish
@@ -440,6 +487,7 @@ gid://shopify/TaxonomyAttribute/2364 : Country
 gid://shopify/TaxonomyAttribute/1455 : Country of origin
 gid://shopify/TaxonomyAttribute/1784 : Cover closure design
 gid://shopify/TaxonomyAttribute/1427 : Cover color
+gid://shopify/TaxonomyAttribute/3012 : Cover features
 gid://shopify/TaxonomyAttribute/1341 : Cover material
 gid://shopify/TaxonomyAttribute/1428 : Cover pattern
 gid://shopify/TaxonomyAttribute/2707 : Cover type
@@ -448,8 +496,15 @@ gid://shopify/TaxonomyAttribute/2659 : Coverage region
 gid://shopify/TaxonomyAttribute/2345 : Craft knife design
 gid://shopify/TaxonomyAttribute/2321 : Craft project type
 gid://shopify/TaxonomyAttribute/2329 : Craft/Sculpting project type
+gid://shopify/TaxonomyAttribute/3017 : Crafting frame features
+gid://shopify/TaxonomyAttribute/3015 : Crafting frame/stretcher features
+gid://shopify/TaxonomyAttribute/3018 : Crafting hoop features
+gid://shopify/TaxonomyAttribute/3013 : Crafting mat/pad features
+gid://shopify/TaxonomyAttribute/3016 : Crafting stretcher features
 gid://shopify/TaxonomyAttribute/2873 : Crampon attachment type
 gid://shopify/TaxonomyAttribute/2293 : Creative art project type
+gid://shopify/TaxonomyAttribute/3106 : Crib features
+gid://shopify/TaxonomyAttribute/3104 : Crib/Toddler bed features
 gid://shopify/TaxonomyAttribute/2849 : Cricket equipment included
 gid://shopify/TaxonomyAttribute/1589 : Crutch type
 gid://shopify/TaxonomyAttribute/2375 : Crystal system
@@ -466,6 +521,7 @@ gid://shopify/TaxonomyAttribute/2610 : Currency type
 gid://shopify/TaxonomyAttribute/2654 : Customer support channels
 gid://shopify/TaxonomyAttribute/1422 : Cutting method
 gid://shopify/TaxonomyAttribute/1278 : Cycling style
+gid://shopify/TaxonomyAttribute/3069 : DJ equipment features
 gid://shopify/TaxonomyAttribute/1858 : Data network
 gid://shopify/TaxonomyAttribute/2782 : Decoration material
 gid://shopify/TaxonomyAttribute/2348 : Decorative stamp design
@@ -477,22 +533,26 @@ gid://shopify/TaxonomyAttribute/2561 : Dentistry items included
 gid://shopify/TaxonomyAttribute/1667 : Denture base color
 gid://shopify/TaxonomyAttribute/1668 : Denture teeth color
 gid://shopify/TaxonomyAttribute/2650 : Deployment type
+gid://shopify/TaxonomyAttribute/3154 : Desk organizer features
 gid://shopify/TaxonomyAttribute/2410 : Desk size
 gid://shopify/TaxonomyAttribute/1570 : Detailed ingredients
 gid://shopify/TaxonomyAttribute/1579 : Detectable drugs
-gid://shopify/TaxonomyAttribute/2200 : Detected gases
 gid://shopify/TaxonomyAttribute/2582 : Detector sensitivity
 gid://shopify/TaxonomyAttribute/1368 : Detector type
+gid://shopify/TaxonomyAttribute/3027 : Developmental features
 gid://shopify/TaxonomyAttribute/845  : Device interface
 gid://shopify/TaxonomyAttribute/2197 : Device technology
 gid://shopify/TaxonomyAttribute/118  : Dial color
 gid://shopify/TaxonomyAttribute/2900 : Diaper bag material
+gid://shopify/TaxonomyAttribute/2973 : Diaper features
 gid://shopify/TaxonomyAttribute/1754 : Diaper kit components
+gid://shopify/TaxonomyAttribute/3037 : Diaper organizer features
 gid://shopify/TaxonomyAttribute/1757 : Diaper size
 gid://shopify/TaxonomyAttribute/1573 : Diaper type
 gid://shopify/TaxonomyAttribute/2761 : Dice shape
 gid://shopify/TaxonomyAttribute/1834 : Dielectric type
 gid://shopify/TaxonomyAttribute/1452 : Dietary preferences
+gid://shopify/TaxonomyAttribute/3098 : Dietary supplements
 gid://shopify/TaxonomyAttribute/1567 : Dietary use
 gid://shopify/TaxonomyAttribute/2768 : Difficulty level
 gid://shopify/TaxonomyAttribute/2048 : Diffuser design
@@ -502,19 +562,30 @@ gid://shopify/TaxonomyAttribute/1379 : Dirt separating method
 gid://shopify/TaxonomyAttribute/2575 : Discharge type
 gid://shopify/TaxonomyAttribute/2662 : Disk format type
 gid://shopify/TaxonomyAttribute/1384 : Dispenser type
+gid://shopify/TaxonomyAttribute/3166 : Display board features
 gid://shopify/TaxonomyAttribute/1730 : Display color mode
+gid://shopify/TaxonomyAttribute/3176 : Display features
 gid://shopify/TaxonomyAttribute/2046 : Display mode
 gid://shopify/TaxonomyAttribute/2548 : Display recommended use
 gid://shopify/TaxonomyAttribute/1334 : Display resolution
 gid://shopify/TaxonomyAttribute/2622 : Display sign design
 gid://shopify/TaxonomyAttribute/1248 : Display technology
+gid://shopify/TaxonomyAttribute/3038 : Disposable bag features
 gid://shopify/TaxonomyAttribute/2809 : Disposable bag material
+gid://shopify/TaxonomyAttribute/3054 : Disposable glove features
 gid://shopify/TaxonomyAttribute/2943 : Disposable tableware material
+gid://shopify/TaxonomyAttribute/2994 : Disposable/Reusable bag features
 gid://shopify/TaxonomyAttribute/2950 : Disposable/Reusable item material
 gid://shopify/TaxonomyAttribute/2866 : Diving regulator style
 gid://shopify/TaxonomyAttribute/2864 : Diving/Snorkeling equipment included
 gid://shopify/TaxonomyAttribute/1703 : Dog age group
+gid://shopify/TaxonomyAttribute/2974 : Dog house features
+gid://shopify/TaxonomyAttribute/2978 : Dog kennel features
+gid://shopify/TaxonomyAttribute/2976 : Dog kennel/run features
+gid://shopify/TaxonomyAttribute/2977 : Dog pen features
+gid://shopify/TaxonomyAttribute/3194 : Doll features
 gid://shopify/TaxonomyAttribute/2771 : Doll target gender
+gid://shopify/TaxonomyAttribute/3192 : Doll/Playset features
 gid://shopify/TaxonomyAttribute/2088 : Door application
 gid://shopify/TaxonomyAttribute/2079 : Door closer application
 gid://shopify/TaxonomyAttribute/2080 : Door closer design
@@ -536,6 +607,8 @@ gid://shopify/TaxonomyAttribute/1747 : Double stroller configuration
 gid://shopify/TaxonomyAttribute/2543 : Download format
 gid://shopify/TaxonomyAttribute/2146 : Drain location
 gid://shopify/TaxonomyAttribute/2280 : Drawing/Painting kit items included
+gid://shopify/TaxonomyAttribute/3014 : Dress form features
+gid://shopify/TaxonomyAttribute/3120 : Drill features
 gid://shopify/TaxonomyAttribute/2604 : Drilling method
 gid://shopify/TaxonomyAttribute/2605 : Drilling rig orientation
 gid://shopify/TaxonomyAttribute/2820 : Drinkware material
@@ -546,10 +619,12 @@ gid://shopify/TaxonomyAttribute/2470 : Drum configuration
 gid://shopify/TaxonomyAttribute/2934 : Drum hardware material
 gid://shopify/TaxonomyAttribute/1492 : Dry bean variety
 gid://shopify/TaxonomyAttribute/1380 : Dry/Wet cleaning
+gid://shopify/TaxonomyAttribute/3140 : Dryer features
 gid://shopify/TaxonomyAttribute/2134 : Dryer technology
 gid://shopify/TaxonomyAttribute/1601 : Drying speed
 gid://shopify/TaxonomyAttribute/2135 : Duct shape
 gid://shopify/TaxonomyAttribute/1950 : Duplexing technology
+gid://shopify/TaxonomyAttribute/3111 : Durability features
 gid://shopify/TaxonomyAttribute/1381 : Dust container type
 gid://shopify/TaxonomyAttribute/2638 : Dust mask type
 gid://shopify/TaxonomyAttribute/2304 : Dye form
@@ -560,10 +635,12 @@ gid://shopify/TaxonomyAttribute/1506 : E-liquid flavor
 gid://shopify/TaxonomyAttribute/1507 : E-liquid variety
 gid://shopify/TaxonomyAttribute/2904 : E-reader display technology
 gid://shopify/TaxonomyAttribute/2672 : ESRB rating
+gid://shopify/TaxonomyAttribute/3197 : EV battery features
 gid://shopify/TaxonomyAttribute/2688 : EV battery type
 gid://shopify/TaxonomyAttribute/2686 : EV connector/adapter type
 gid://shopify/TaxonomyAttribute/2687 : EV conversion kit components
-gid://shopify/TaxonomyAttribute/2837 : Ear car application method
+gid://shopify/TaxonomyAttribute/3132 : Ear care application method
+gid://shopify/TaxonomyAttribute/3064 : Earphone features
 gid://shopify/TaxonomyAttribute/1636 : Earplug use
 gid://shopify/TaxonomyAttribute/2078 : Edge style
 gid://shopify/TaxonomyAttribute/2818 : Edge type
@@ -584,6 +661,7 @@ gid://shopify/TaxonomyAttribute/2175 : Engine design
 gid://shopify/TaxonomyAttribute/2176 : Engine purpose
 gid://shopify/TaxonomyAttribute/2694 : Engine type
 gid://shopify/TaxonomyAttribute/2527 : Engraving
+gid://shopify/TaxonomyAttribute/3156 : Envelope features
 gid://shopify/TaxonomyAttribute/2514 : Envelope seal design
 gid://shopify/TaxonomyAttribute/2592 : Equipment operation
 gid://shopify/TaxonomyAttribute/2371 : Era
@@ -592,10 +670,12 @@ gid://shopify/TaxonomyAttribute/1372 : Evaporation technology
 gid://shopify/TaxonomyAttribute/2275 : Event type
 gid://shopify/TaxonomyAttribute/2859 : Exercise equipment included
 gid://shopify/TaxonomyAttribute/2858 : Exercise equipment material
+gid://shopify/TaxonomyAttribute/2979 : Exercise machine features
 gid://shopify/TaxonomyAttribute/2853 : Exercise mat material
 gid://shopify/TaxonomyAttribute/1838 : Expansion slots
 gid://shopify/TaxonomyAttribute/2026 : Exposure control
 gid://shopify/TaxonomyAttribute/2492 : Extended saxophone range
+gid://shopify/TaxonomyAttribute/3051 : External defibrillator features
 gid://shopify/TaxonomyAttribute/1365 : Extinguisher rating
 gid://shopify/TaxonomyAttribute/1366 : Extinguishing agent type
 gid://shopify/TaxonomyAttribute/1404 : Extraction type
@@ -609,7 +689,6 @@ gid://shopify/TaxonomyAttribute/2842 : Eyewear frame material
 gid://shopify/TaxonomyAttribute/2841 : Eyewear lens material
 gid://shopify/TaxonomyAttribute/2777 : Fabric
 gid://shopify/TaxonomyAttribute/2337 : Fabric design
-gid://shopify/TaxonomyAttribute/1181 : Face color
 gid://shopify/TaxonomyAttribute/2625 : Facility sign design
 gid://shopify/TaxonomyAttribute/2453 : Facing
 gid://shopify/TaxonomyAttribute/2122 : Fastener finish
@@ -617,10 +696,12 @@ gid://shopify/TaxonomyAttribute/2926 : Fastener material
 gid://shopify/TaxonomyAttribute/1219 : Fastener type
 gid://shopify/TaxonomyAttribute/1479 : Fat content
 gid://shopify/TaxonomyAttribute/2145 : Faucet thread
+gid://shopify/TaxonomyAttribute/2989 : Features
 gid://shopify/TaxonomyAttribute/2261 : Feed system
 gid://shopify/TaxonomyAttribute/2206 : Feed type
 gid://shopify/TaxonomyAttribute/1851 : Feet type
 gid://shopify/TaxonomyAttribute/2260 : Felt tip design
+gid://shopify/TaxonomyAttribute/3133 : Feminine sanitary supply features
 gid://shopify/TaxonomyAttribute/2107 : Fencing components
 gid://shopify/TaxonomyAttribute/2310 : Fiber art project type
 gid://shopify/TaxonomyAttribute/2619 : Field of view
@@ -693,25 +774,29 @@ gid://shopify/TaxonomyAttribute/2376 : Fossil type
 gid://shopify/TaxonomyAttribute/2895 : Foundation material
 gid://shopify/TaxonomyAttribute/1637 : Fragrance
 gid://shopify/TaxonomyAttribute/1755 : Fragrance level
-gid://shopify/TaxonomyAttribute/1340 : Frame
 gid://shopify/TaxonomyAttribute/1246 : Frame color
 gid://shopify/TaxonomyAttribute/2266 : Frame design
 gid://shopify/TaxonomyAttribute/1224 : Frame material
 gid://shopify/TaxonomyAttribute/1429 : Frame pattern
 gid://shopify/TaxonomyAttribute/1692 : Frame shape
+gid://shopify/TaxonomyAttribute/3137 : Frame style
 gid://shopify/TaxonomyAttribute/2201 : Frequency weighting
 gid://shopify/TaxonomyAttribute/1804 : Frequency/Radio bands supported
 gid://shopify/TaxonomyAttribute/2444 : Frog material
 gid://shopify/TaxonomyAttribute/1478 : Fruit source
 gid://shopify/TaxonomyAttribute/2109 : Fuel additives
+gid://shopify/TaxonomyAttribute/3114 : Fuel container features
 gid://shopify/TaxonomyAttribute/2110 : Fuel grade
 gid://shopify/TaxonomyAttribute/2113 : Fuel purity
 gid://shopify/TaxonomyAttribute/1927 : Fuel source
 gid://shopify/TaxonomyAttribute/2177 : Fuel supply
+gid://shopify/TaxonomyAttribute/3102 : Furniture/Fixture features
 gid://shopify/TaxonomyAttribute/2786 : Furniture/Fixture material
 gid://shopify/TaxonomyAttribute/2660 : GPS compatible device
+gid://shopify/TaxonomyAttribute/3088 : GPS device features
 gid://shopify/TaxonomyAttribute/2510 : Game components
 gid://shopify/TaxonomyAttribute/2511 : Game difficulty
+gid://shopify/TaxonomyAttribute/3190 : Game features
 gid://shopify/TaxonomyAttribute/2512 : Game name
 gid://shopify/TaxonomyAttribute/2760 : Gameplay skills
 gid://shopify/TaxonomyAttribute/1245 : Games included
@@ -733,6 +818,8 @@ gid://shopify/TaxonomyAttribute/1463 : Gin variety
 gid://shopify/TaxonomyAttribute/2302 : Glaze finish
 gid://shopify/TaxonomyAttribute/2106 : Glazing type
 gid://shopify/TaxonomyAttribute/2324 : Glitter shape
+gid://shopify/TaxonomyAttribute/2987 : Glucose meter features
+gid://shopify/TaxonomyAttribute/3019 : Glue gun features
 gid://shopify/TaxonomyAttribute/1625 : Glue strength
 gid://shopify/TaxonomyAttribute/1972 : Golf ball type
 gid://shopify/TaxonomyAttribute/2882 : Golf equipment included
@@ -740,6 +827,7 @@ gid://shopify/TaxonomyAttribute/2367 : Grading
 gid://shopify/TaxonomyAttribute/1992 : Grain
 gid://shopify/TaxonomyAttribute/2391 : Grape variety
 gid://shopify/TaxonomyAttribute/1873 : Graphics card type
+gid://shopify/TaxonomyAttribute/3081 : Graphics tablet specialized features
 gid://shopify/TaxonomyAttribute/2897 : Gravel/Substrate material
 gid://shopify/TaxonomyAttribute/1405 : Grease filter material
 gid://shopify/TaxonomyAttribute/2428 : Grip texture
@@ -748,15 +836,18 @@ gid://shopify/TaxonomyAttribute/2186 : Grit type
 gid://shopify/TaxonomyAttribute/1721 : Grooming kit format
 gid://shopify/TaxonomyAttribute/2479 : Guitar size
 gid://shopify/TaxonomyAttribute/2098 : Gutter fitting type
+gid://shopify/TaxonomyAttribute/3112 : Gutter style
 gid://shopify/TaxonomyAttribute/1959 : HDR format
 gid://shopify/TaxonomyAttribute/2137 : HVAC control type
 gid://shopify/TaxonomyAttribute/2898 : Habitat material
 gid://shopify/TaxonomyAttribute/1645 : Hair care finish
 gid://shopify/TaxonomyAttribute/1647 : Hair care technology
 gid://shopify/TaxonomyAttribute/1643 : Hair loss type
+gid://shopify/TaxonomyAttribute/3135 : Hair styling tool features
 gid://shopify/TaxonomyAttribute/1199 : Hair type
 gid://shopify/TaxonomyAttribute/2920 : Hammer head material
 gid://shopify/TaxonomyAttribute/1208 : Hand side
+gid://shopify/TaxonomyAttribute/3183 : Hand warmer type
 gid://shopify/TaxonomyAttribute/2581 : Handcuff lock type
 gid://shopify/TaxonomyAttribute/2188 : Handle color
 gid://shopify/TaxonomyAttribute/2194 : Handle design
@@ -764,9 +855,11 @@ gid://shopify/TaxonomyAttribute/1669 : Handle grip texture
 gid://shopify/TaxonomyAttribute/1295 : Handle material
 gid://shopify/TaxonomyAttribute/1597 : Handle type
 gid://shopify/TaxonomyAttribute/1849 : Handset type
+gid://shopify/TaxonomyAttribute/3003 : Handwear features
 gid://shopify/TaxonomyAttribute/2780 : Handwear material
 gid://shopify/TaxonomyAttribute/1530 : Hanging chair design
 gid://shopify/TaxonomyAttribute/1459 : Hard cider variety
+gid://shopify/TaxonomyAttribute/3086 : Hard drive features
 gid://shopify/TaxonomyAttribute/2634 : Hardhat class
 gid://shopify/TaxonomyAttribute/2255 : Hardness
 gid://shopify/TaxonomyAttribute/2081 : Hardware finish
@@ -780,6 +873,8 @@ gid://shopify/TaxonomyAttribute/2636 : Hazmat suit design
 gid://shopify/TaxonomyAttribute/2485 : Headjoint cut
 gid://shopify/TaxonomyAttribute/1807 : Headphone jack type
 gid://shopify/TaxonomyAttribute/1814 : Headphone style
+gid://shopify/TaxonomyAttribute/3004 : Headwear features
+gid://shopify/TaxonomyAttribute/3124 : Hearing aid features
 gid://shopify/TaxonomyAttribute/2828 : Hearing aid material
 gid://shopify/TaxonomyAttribute/1654 : Heat function
 gid://shopify/TaxonomyAttribute/1485 : Heat level
@@ -793,7 +888,6 @@ gid://shopify/TaxonomyAttribute/2404 : Height adjustment
 gid://shopify/TaxonomyAttribute/2639 : Helmet shade design
 gid://shopify/TaxonomyAttribute/2717 : Hitch class
 gid://shopify/TaxonomyAttribute/1274 : Hitch type
-gid://shopify/TaxonomyAttribute/1399 : Hob type
 gid://shopify/TaxonomyAttribute/2852 : Hockey equipment included
 gid://shopify/TaxonomyAttribute/1646 : Hold level
 gid://shopify/TaxonomyAttribute/2130 : Hook design
@@ -818,6 +912,7 @@ gid://shopify/TaxonomyAttribute/1999 : Image sensor size
 gid://shopify/TaxonomyAttribute/2718 : Immobilizer type
 gid://shopify/TaxonomyAttribute/2282 : Incense fragrance
 gid://shopify/TaxonomyAttribute/2283 : Incense type
+gid://shopify/TaxonomyAttribute/3125 : Incontinence aid features
 gid://shopify/TaxonomyAttribute/2651 : Industry focus
 gid://shopify/TaxonomyAttribute/1715 : Infant age group
 gid://shopify/TaxonomyAttribute/1569 : Ingredient category
@@ -832,7 +927,6 @@ gid://shopify/TaxonomyAttribute/1310 : Inline skating style
 gid://shopify/TaxonomyAttribute/2438 : Inner color
 gid://shopify/TaxonomyAttribute/2439 : Inner pattern
 gid://shopify/TaxonomyAttribute/1893 : Input connection
-gid://shopify/TaxonomyAttribute/2684 : Input phase type
 gid://shopify/TaxonomyAttribute/2419 : Input/Output ports
 gid://shopify/TaxonomyAttribute/2100 : Installation method
 gid://shopify/TaxonomyAttribute/1899 : Instruction set architecture
@@ -847,10 +941,11 @@ gid://shopify/TaxonomyAttribute/2776 : Instrument/Accessory finish
 gid://shopify/TaxonomyAttribute/2913 : Insulation material
 gid://shopify/TaxonomyAttribute/2063 : Intended application
 gid://shopify/TaxonomyAttribute/2466 : Interface type
-gid://shopify/TaxonomyAttribute/2227 : Interior features
 gid://shopify/TaxonomyAttribute/1874 : Internal drive form factor supported
+gid://shopify/TaxonomyAttribute/3000 : Intimate apparel features
 gid://shopify/TaxonomyAttribute/2689 : Inverter type
 gid://shopify/TaxonomyAttribute/2518 : Invitation personalization design
+gid://shopify/TaxonomyAttribute/3142 : Ironing features
 gid://shopify/TaxonomyAttribute/2680 : Item condition
 gid://shopify/TaxonomyAttribute/2948 : Item material
 gid://shopify/TaxonomyAttribute/2493 : Item style
@@ -860,6 +955,8 @@ gid://shopify/TaxonomyAttribute/2781 : Jewelry material
 gid://shopify/TaxonomyAttribute/2313 : Jewelry project type
 gid://shopify/TaxonomyAttribute/2285 : Jewelry set type
 gid://shopify/TaxonomyAttribute/60   : Jewelry type
+gid://shopify/TaxonomyAttribute/3172 : Joint connection
+gid://shopify/TaxonomyAttribute/3173 : Joint face type
 gid://shopify/TaxonomyAttribute/1242 : Joint style
 gid://shopify/TaxonomyAttribute/2765 : Jumping surface material
 gid://shopify/TaxonomyAttribute/1824 : Karaoke modes
@@ -871,6 +968,7 @@ gid://shopify/TaxonomyAttribute/1909 : Keyboard format
 gid://shopify/TaxonomyAttribute/1910 : Keyboard language
 gid://shopify/TaxonomyAttribute/1911 : Keyboard layout
 gid://shopify/TaxonomyAttribute/1914 : Keyboard port type
+gid://shopify/TaxonomyAttribute/3082 : Keyboard specialized features
 gid://shopify/TaxonomyAttribute/1912 : Keyboard switch type
 gid://shopify/TaxonomyAttribute/1879 : Keyboard type
 gid://shopify/TaxonomyAttribute/1335 : Keypad style
@@ -878,6 +976,7 @@ gid://shopify/TaxonomyAttribute/2383 : Kit construction type
 gid://shopify/TaxonomyAttribute/2286 : Kit type
 gid://shopify/TaxonomyAttribute/1411 : Kitchen utensil items included
 gid://shopify/TaxonomyAttribute/1253 : Kitesurfing style
+gid://shopify/TaxonomyAttribute/3181 : Kneeboard features
 gid://shopify/TaxonomyAttribute/1263 : Knife type
 gid://shopify/TaxonomyAttribute/2311 : Knitting project type
 gid://shopify/TaxonomyAttribute/2953 : Knitting/Padding project type
@@ -886,7 +985,7 @@ gid://shopify/TaxonomyAttribute/2415 : Knob style
 gid://shopify/TaxonomyAttribute/2116 : Knob/Handle design
 gid://shopify/TaxonomyAttribute/1885 : LNB output
 gid://shopify/TaxonomyAttribute/1886 : LNB technology
-gid://shopify/TaxonomyAttribute/2326 : Labelling project type
+gid://shopify/TaxonomyAttribute/3011 : Labeling project type
 gid://shopify/TaxonomyAttribute/2615 : Laboratory freezer design
 gid://shopify/TaxonomyAttribute/2851 : Lacrosse equipment included
 gid://shopify/TaxonomyAttribute/2732 : Ladder type
@@ -896,6 +995,7 @@ gid://shopify/TaxonomyAttribute/2536 : Language version
 gid://shopify/TaxonomyAttribute/2269 : Laser color
 gid://shopify/TaxonomyAttribute/2270 : Laser light source
 gid://shopify/TaxonomyAttribute/2196 : Lathe application
+gid://shopify/TaxonomyAttribute/3145 : Laundry detergent features
 gid://shopify/TaxonomyAttribute/2254 : Lead grade
 gid://shopify/TaxonomyAttribute/2330 : Leather/Vinyl texture
 gid://shopify/TaxonomyAttribute/2271 : Lectern mounting type
@@ -916,20 +1016,23 @@ gid://shopify/TaxonomyAttribute/2957 : Lens/Slide material
 gid://shopify/TaxonomyAttribute/2646 : License type
 gid://shopify/TaxonomyAttribute/2570 : Lid material
 gid://shopify/TaxonomyAttribute/1786 : Lid type
+gid://shopify/TaxonomyAttribute/3175 : Life jacket features
 gid://shopify/TaxonomyAttribute/2229 : Light attachment type
 gid://shopify/TaxonomyAttribute/1243 : Light color
 gid://shopify/TaxonomyAttribute/1360 : Light control
 gid://shopify/TaxonomyAttribute/2008 : Light design
 gid://shopify/TaxonomyAttribute/2021 : Light exposure modes
-gid://shopify/TaxonomyAttribute/2624 : Light features
 gid://shopify/TaxonomyAttribute/2050 : Light filtering
 gid://shopify/TaxonomyAttribute/1740 : Light options
 gid://shopify/TaxonomyAttribute/1333 : Light source
 gid://shopify/TaxonomyAttribute/1574 : Light spectrum
 gid://shopify/TaxonomyAttribute/1244 : Light temperature
 gid://shopify/TaxonomyAttribute/2742 : Light type
+gid://shopify/TaxonomyAttribute/2982 : Lighting features
+gid://shopify/TaxonomyAttribute/3056 : Lighting options
 gid://shopify/TaxonomyAttribute/2247 : Line spacing options
 gid://shopify/TaxonomyAttribute/2729 : Line/Rope type
+gid://shopify/TaxonomyAttribute/2971 : Liner features
 gid://shopify/TaxonomyAttribute/1621 : Lip gloss effect
 gid://shopify/TaxonomyAttribute/2455 : Lip plate material
 gid://shopify/TaxonomyAttribute/1622 : Lipstick effect
@@ -955,8 +1058,10 @@ gid://shopify/TaxonomyAttribute/1797 : MP3 player accessories included
 gid://shopify/TaxonomyAttribute/2547 : MPAA rating
 gid://shopify/TaxonomyAttribute/1350 : Magnet type
 gid://shopify/TaxonomyAttribute/2616 : Magnification
+gid://shopify/TaxonomyAttribute/3130 : Makeup features
 gid://shopify/TaxonomyAttribute/2935 : Mallet material
 gid://shopify/TaxonomyAttribute/2681 : Manufacturer type
+gid://shopify/TaxonomyAttribute/3089 : Marine navigator features
 gid://shopify/TaxonomyAttribute/2256 : Marker tip design
 gid://shopify/TaxonomyAttribute/1619 : Mascara effect
 gid://shopify/TaxonomyAttribute/1594 : Mask type
@@ -966,12 +1071,16 @@ gid://shopify/TaxonomyAttribute/1657 : Massage area
 gid://shopify/TaxonomyAttribute/2839 : Massage stone texture
 gid://shopify/TaxonomyAttribute/1528 : Massage technique
 gid://shopify/TaxonomyAttribute/2964 : Mat base material
+gid://shopify/TaxonomyAttribute/3144 : Mat features
 gid://shopify/TaxonomyAttribute/2788 : Mat/Rug shape
 gid://shopify/TaxonomyAttribute/4    : Material
 gid://shopify/TaxonomyAttribute/2148 : Material firmness
 gid://shopify/TaxonomyAttribute/1222 : Material hardness
+gid://shopify/TaxonomyAttribute/3002 : Maternity clothing features
+gid://shopify/TaxonomyAttribute/3109 : Mattress features
 gid://shopify/TaxonomyAttribute/2617 : Maximum magnification
 gid://shopify/TaxonomyAttribute/1550 : Measuring method
+gid://shopify/TaxonomyAttribute/3121 : Measuring tool features
 gid://shopify/TaxonomyAttribute/1554 : Measuring type
 gid://shopify/TaxonomyAttribute/1496 : Meat cut
 gid://shopify/TaxonomyAttribute/1500 : Meat type
@@ -980,6 +1089,7 @@ gid://shopify/TaxonomyAttribute/2546 : Media content type
 gid://shopify/TaxonomyAttribute/1823 : Media format
 gid://shopify/TaxonomyAttribute/2542 : Media section
 gid://shopify/TaxonomyAttribute/2540 : Media theme
+gid://shopify/TaxonomyAttribute/3126 : Medical alarm features
 gid://shopify/TaxonomyAttribute/2601 : Medical syringe purpose
 gid://shopify/TaxonomyAttribute/2826 : Medical tape material
 gid://shopify/TaxonomyAttribute/2829 : Medicine/Drug form
@@ -987,16 +1097,17 @@ gid://shopify/TaxonomyAttribute/2963 : Medicine/Supplement form
 gid://shopify/TaxonomyAttribute/2362 : Medium
 gid://shopify/TaxonomyAttribute/2487 : Melodica style
 gid://shopify/TaxonomyAttribute/1900 : Memory channels
-gid://shopify/TaxonomyAttribute/1839 : Memory features
 gid://shopify/TaxonomyAttribute/1875 : Memory form factor
 gid://shopify/TaxonomyAttribute/2031 : Memory storage type
 gid://shopify/TaxonomyAttribute/1840 : Memory technology
 gid://shopify/TaxonomyAttribute/1638 : Menstrual cup shape
+gid://shopify/TaxonomyAttribute/3050 : Metal detector features
 gid://shopify/TaxonomyAttribute/2131 : Metal molding application
 gid://shopify/TaxonomyAttribute/2741 : Meter type
 gid://shopify/TaxonomyAttribute/1551 : Metrics supported
 gid://shopify/TaxonomyAttribute/1796 : Microphone thread
 gid://shopify/TaxonomyAttribute/1815 : Microphone type
+gid://shopify/TaxonomyAttribute/3055 : Microscope features
 gid://shopify/TaxonomyAttribute/2947 : Microscope slide material
 gid://shopify/TaxonomyAttribute/2378 : Mineral class
 gid://shopify/TaxonomyAttribute/2618 : Minimum magnification
@@ -1004,10 +1115,12 @@ gid://shopify/TaxonomyAttribute/2560 : Mirror handle design
 gid://shopify/TaxonomyAttribute/1827 : Mixer type
 gid://shopify/TaxonomyAttribute/1736 : Mobile mounting type
 gid://shopify/TaxonomyAttribute/1738 : Mobile movement
+gid://shopify/TaxonomyAttribute/3073 : Mobile phone case features
 gid://shopify/TaxonomyAttribute/1582 : Mobility scooter type
+gid://shopify/TaxonomyAttribute/3127 : Mobility/Accessibility equipment features
 gid://shopify/TaxonomyAttribute/2395 : Model control technology
 gid://shopify/TaxonomyAttribute/2393 : Model train accessory type
-gid://shopify/TaxonomyAttribute/2394 : Model train them
+gid://shopify/TaxonomyAttribute/3022 : Model train theme
 gid://shopify/TaxonomyAttribute/1867 : Modulation method
 gid://shopify/TaxonomyAttribute/2359 : Mold shape
 gid://shopify/TaxonomyAttribute/2955 : Mold/Cut shape
@@ -1015,10 +1128,13 @@ gid://shopify/TaxonomyAttribute/2097 : Molding application
 gid://shopify/TaxonomyAttribute/2119 : Molding shape
 gid://shopify/TaxonomyAttribute/2795 : Monitor mounting type
 gid://shopify/TaxonomyAttribute/2905 : Monitor shape
+gid://shopify/TaxonomyAttribute/3093 : Monitor specialized features
 gid://shopify/TaxonomyAttribute/2007 : Monitor type
+gid://shopify/TaxonomyAttribute/3085 : Monitor/Screen specialized features
 gid://shopify/TaxonomyAttribute/2035 : Monocular design
 gid://shopify/TaxonomyAttribute/1841 : Motherboard chipset family
 gid://shopify/TaxonomyAttribute/1842 : Motherboard form factor
+gid://shopify/TaxonomyAttribute/3071 : Motherboard memory features
 gid://shopify/TaxonomyAttribute/1734 : Motion
 gid://shopify/TaxonomyAttribute/2793 : Motion sensor type
 gid://shopify/TaxonomyAttribute/2162 : Motor starting method
@@ -1029,21 +1145,26 @@ gid://shopify/TaxonomyAttribute/2716 : Motorcycle glove purpose
 gid://shopify/TaxonomyAttribute/2702 : Motorcycle tire type
 gid://shopify/TaxonomyAttribute/2751 : Motorcycle/Scooter type
 gid://shopify/TaxonomyAttribute/2789 : Mount material
+gid://shopify/TaxonomyAttribute/3023 : Mount/Stand features
 gid://shopify/TaxonomyAttribute/2794 : Mounting hardware
 gid://shopify/TaxonomyAttribute/1205 : Mounting type
+gid://shopify/TaxonomyAttribute/3080 : Mouse pad features
 gid://shopify/TaxonomyAttribute/1915 : Mouse port type
 gid://shopify/TaxonomyAttribute/1917 : Mouse technology
+gid://shopify/TaxonomyAttribute/3083 : Mouse/Trackball features
 gid://shopify/TaxonomyAttribute/2483 : Mouthpiece
 gid://shopify/TaxonomyAttribute/2925 : Moving/Shipping box material
 gid://shopify/TaxonomyAttribute/1843 : Multi-GPU technology
-gid://shopify/TaxonomyAttribute/1590 : Muscle estimulator design
+gid://shopify/TaxonomyAttribute/3128 : Muscle stimulator design
 gid://shopify/TaxonomyAttribute/1793 : Music genre
 gid://shopify/TaxonomyAttribute/2441 : Music stand design
 gid://shopify/TaxonomyAttribute/2488 : Musical key
+gid://shopify/TaxonomyAttribute/3131 : Nail care features
 gid://shopify/TaxonomyAttribute/1623 : Nail design
 gid://shopify/TaxonomyAttribute/1624 : Nail shape
 gid://shopify/TaxonomyAttribute/2673 : National/Regional rating
 gid://shopify/TaxonomyAttribute/1958 : Native aspect ratio
+gid://shopify/TaxonomyAttribute/3129 : Nebulizer design
 gid://shopify/TaxonomyAttribute/1591 : Nebulizer technology
 gid://shopify/TaxonomyAttribute/2480 : Neck material
 gid://shopify/TaxonomyAttribute/32   : Neckline
@@ -1072,11 +1193,13 @@ gid://shopify/TaxonomyAttribute/2902 : Nursing pillow shape
 gid://shopify/TaxonomyAttribute/1491 : Nut butter variety
 gid://shopify/TaxonomyAttribute/2124 : Nut form
 gid://shopify/TaxonomyAttribute/1508 : Nut processing method
+gid://shopify/TaxonomyAttribute/3101 : Nut/Seed type
 gid://shopify/TaxonomyAttribute/1419 : Nutrient content
 gid://shopify/TaxonomyAttribute/2489 : Oboe key system
 gid://shopify/TaxonomyAttribute/2490 : Ocarina style
 gid://shopify/TaxonomyAttribute/1627 : Occasion
 gid://shopify/TaxonomyAttribute/1203 : Occasion style
+gid://shopify/TaxonomyAttribute/3158 : Office cart features
 gid://shopify/TaxonomyAttribute/2924 : Office instrument material
 gid://shopify/TaxonomyAttribute/2922 : Office supply material
 gid://shopify/TaxonomyAttribute/1440 : Oil type
@@ -1091,8 +1214,10 @@ gid://shopify/TaxonomyAttribute/1695 : Optical frame design
 gid://shopify/TaxonomyAttribute/2022 : Optical zoom
 gid://shopify/TaxonomyAttribute/2727 : Organizer type
 gid://shopify/TaxonomyAttribute/1383 : Orientation
+gid://shopify/TaxonomyAttribute/2975 : Outdoor equipment features
 gid://shopify/TaxonomyAttribute/1432 : Outdoor power accessories included
 gid://shopify/TaxonomyAttribute/1264 : Outdoor walking activity
+gid://shopify/TaxonomyAttribute/2998 : Outerwear clothing features
 gid://shopify/TaxonomyAttribute/1931 : Outlet type
 gid://shopify/TaxonomyAttribute/1894 : Output connection
 gid://shopify/TaxonomyAttribute/2434 : Output level
@@ -1107,6 +1232,7 @@ gid://shopify/TaxonomyAttribute/2272 : Packing materials included
 gid://shopify/TaxonomyAttribute/2608 : Pad display profile
 gid://shopify/TaxonomyAttribute/1608 : Pad type
 gid://shopify/TaxonomyAttribute/2891 : Paddle equipment included
+gid://shopify/TaxonomyAttribute/3179 : Paddleboard features
 gid://shopify/TaxonomyAttribute/2232 : Page layout
 gid://shopify/TaxonomyAttribute/2408 : Page size
 gid://shopify/TaxonomyAttribute/2207 : Paint brush design
@@ -1115,6 +1241,7 @@ gid://shopify/TaxonomyAttribute/2297 : Paint form
 gid://shopify/TaxonomyAttribute/2306 : Paint medium type
 gid://shopify/TaxonomyAttribute/2298 : Paint type
 gid://shopify/TaxonomyAttribute/2952 : Paint/Dye form
+gid://shopify/TaxonomyAttribute/3189 : Paintball equipment included
 gid://shopify/TaxonomyAttribute/2889 : Paintball/Airsoft equipment included
 gid://shopify/TaxonomyAttribute/2929 : Painting canvas material
 gid://shopify/TaxonomyAttribute/1810 : Pairing method
@@ -1132,6 +1259,7 @@ gid://shopify/TaxonomyAttribute/2263 : Paperweight design
 gid://shopify/TaxonomyAttribute/2308 : Papier mache shape
 gid://shopify/TaxonomyAttribute/1301 : Parachuting activity
 gid://shopify/TaxonomyAttribute/1844 : Parallel processing technology support
+gid://shopify/TaxonomyAttribute/3200 : Parking camera features
 gid://shopify/TaxonomyAttribute/2627 : Parking sign design
 gid://shopify/TaxonomyAttribute/1832 : Passband
 gid://shopify/TaxonomyAttribute/1412 : Pasta shape type
@@ -1141,20 +1269,29 @@ gid://shopify/TaxonomyAttribute/3    : Pattern
 gid://shopify/TaxonomyAttribute/2357 : Pattern distribution format
 gid://shopify/TaxonomyAttribute/2422 : Pedal polarity
 gid://shopify/TaxonomyAttribute/2259 : Pen color
+gid://shopify/TaxonomyAttribute/3164 : Pen features
 gid://shopify/TaxonomyAttribute/2253 : Pen tip design
 gid://shopify/TaxonomyAttribute/2257 : Pen type
 gid://shopify/TaxonomyAttribute/2967 : Pen/Felt tip design
+gid://shopify/TaxonomyAttribute/3162 : Pen/Pencil features
+gid://shopify/TaxonomyAttribute/3163 : Pencil features
 gid://shopify/TaxonomyAttribute/2258 : Pencil type
 gid://shopify/TaxonomyAttribute/2432 : Percussion stand design
 gid://shopify/TaxonomyAttribute/2429 : Percussion tip shape
 gid://shopify/TaxonomyAttribute/2652 : Performance metrics
 gid://shopify/TaxonomyAttribute/1671 : Peroxide content
+gid://shopify/TaxonomyAttribute/3217 : Personal watercraft type
 gid://shopify/TaxonomyAttribute/2504 : Personalization design
 gid://shopify/TaxonomyAttribute/1719 : Personalization options
 gid://shopify/TaxonomyAttribute/1418 : Pest control method
+gid://shopify/TaxonomyAttribute/2983 : Pet apparel features
+gid://shopify/TaxonomyAttribute/2984 : Pet apparel/bedding features
+gid://shopify/TaxonomyAttribute/2985 : Pet bedding features
+gid://shopify/TaxonomyAttribute/2986 : Pet control accessory features
 gid://shopify/TaxonomyAttribute/1700 : Pet dietary requirements
 gid://shopify/TaxonomyAttribute/1701 : Pet food flavor
 gid://shopify/TaxonomyAttribute/1711 : Pet monitor items included
+gid://shopify/TaxonomyAttribute/2992 : Pet pad features
 gid://shopify/TaxonomyAttribute/1698 : Pet supply product form
 gid://shopify/TaxonomyAttribute/1704 : Pet treat texture
 gid://shopify/TaxonomyAttribute/2557 : Phase type
@@ -1162,6 +1299,7 @@ gid://shopify/TaxonomyAttribute/2023 : Photo effects type
 gid://shopify/TaxonomyAttribute/2043 : Photographic chemical form
 gid://shopify/TaxonomyAttribute/2044 : Photographic paper size
 gid://shopify/TaxonomyAttribute/2045 : Photographic paper type
+gid://shopify/TaxonomyAttribute/3025 : Piano additional features
 gid://shopify/TaxonomyAttribute/2474 : Piano pedals
 gid://shopify/TaxonomyAttribute/2475 : Piano size
 gid://shopify/TaxonomyAttribute/2440 : Pick design
@@ -1173,6 +1311,7 @@ gid://shopify/TaxonomyAttribute/1327 : Pile type
 gid://shopify/TaxonomyAttribute/1785 : Pillow shape
 gid://shopify/TaxonomyAttribute/2356 : Pin size
 gid://shopify/TaxonomyAttribute/2862 : Ping pong equipment included
+gid://shopify/TaxonomyAttribute/3174 : Ping pong robot features
 gid://shopify/TaxonomyAttribute/2140 : Pipe clamp design
 gid://shopify/TaxonomyAttribute/1503 : Pipe shape
 gid://shopify/TaxonomyAttribute/2519 : Piñata design
@@ -1186,7 +1325,10 @@ gid://shopify/TaxonomyAttribute/2675 : Platform
 gid://shopify/TaxonomyAttribute/1964 : Playback disc formats
 gid://shopify/TaxonomyAttribute/1826 : Player drive type
 gid://shopify/TaxonomyAttribute/1217 : Player position
+gid://shopify/TaxonomyAttribute/3097 : Player specialized features
+gid://shopify/TaxonomyAttribute/3095 : Player/Recorder specialized features
 gid://shopify/TaxonomyAttribute/2764 : Playhouse design
+gid://shopify/TaxonomyAttribute/3195 : Playset features
 gid://shopify/TaxonomyAttribute/1925 : Plug type
 gid://shopify/TaxonomyAttribute/1932 : Plug type (input)
 gid://shopify/TaxonomyAttribute/1933 : Plug type (output)
@@ -1209,18 +1351,21 @@ gid://shopify/TaxonomyAttribute/2736 : Polish type
 gid://shopify/TaxonomyAttribute/2468 : Polyphony
 gid://shopify/TaxonomyAttribute/1634 : Portability
 gid://shopify/TaxonomyAttribute/2802 : Post material
+gid://shopify/TaxonomyAttribute/3021 : Postage stamp features
 gid://shopify/TaxonomyAttribute/2389 : Potential extract
 gid://shopify/TaxonomyAttribute/2332 : Pottery/Sculpting project type
 gid://shopify/TaxonomyAttribute/1789 : Potty training kit components
 gid://shopify/TaxonomyAttribute/1788 : Potty/Toilet seat design
 gid://shopify/TaxonomyAttribute/1221 : Power source
 gid://shopify/TaxonomyAttribute/1580 : Pregnancy test sensitivity
+gid://shopify/TaxonomyAttribute/3165 : Presentation supply features
 gid://shopify/TaxonomyAttribute/2621 : Preservation type
 gid://shopify/TaxonomyAttribute/2644 : Primary region
 gid://shopify/TaxonomyAttribute/2064 : Primer use
 gid://shopify/TaxonomyAttribute/1946 : Print technology
 gid://shopify/TaxonomyAttribute/1947 : Printer accessories included
 gid://shopify/TaxonomyAttribute/1952 : Printer functions
+gid://shopify/TaxonomyAttribute/3091 : Printer/Copier specialized features
 gid://shopify/TaxonomyAttribute/1949 : Printing color
 gid://shopify/TaxonomyAttribute/2372 : Printing method
 gid://shopify/TaxonomyAttribute/1901 : Processor cores
@@ -1229,7 +1374,6 @@ gid://shopify/TaxonomyAttribute/1845 : Processor socket
 gid://shopify/TaxonomyAttribute/1817 : Processor technology
 gid://shopify/TaxonomyAttribute/1620 : Product benefits
 gid://shopify/TaxonomyAttribute/1261 : Product certifications & standards
-gid://shopify/TaxonomyAttribute/1592 : Product design
 gid://shopify/TaxonomyAttribute/1285 : Product form
 gid://shopify/TaxonomyAttribute/2065 : Product formulation
 gid://shopify/TaxonomyAttribute/2545 : Product manual area
@@ -1243,6 +1387,8 @@ gid://shopify/TaxonomyAttribute/2740 : Propeller blade design
 gid://shopify/TaxonomyAttribute/2562 : Prophy cup design
 gid://shopify/TaxonomyAttribute/1433 : Propulsion type
 gid://shopify/TaxonomyAttribute/2635 : Protection type
+gid://shopify/TaxonomyAttribute/3057 : Protective gear features
+gid://shopify/TaxonomyAttribute/3058 : Protective mask features
 gid://shopify/TaxonomyAttribute/2541 : Publication frequency
 gid://shopify/TaxonomyAttribute/2530 : Publication type
 gid://shopify/TaxonomyAttribute/1238 : Pull-up bar
@@ -1254,7 +1400,6 @@ gid://shopify/TaxonomyAttribute/2773 : Puppet type
 gid://shopify/TaxonomyAttribute/2769 : Puzzle theme
 gid://shopify/TaxonomyAttribute/1307 : Quiver style
 gid://shopify/TaxonomyAttribute/1337 : RFID frequency
-gid://shopify/TaxonomyAttribute/2762 : RPG genre
 gid://shopify/TaxonomyAttribute/2578 : Rack design
 gid://shopify/TaxonomyAttribute/2722 : Rack type
 gid://shopify/TaxonomyAttribute/1227 : Racket gauge
@@ -1263,6 +1408,7 @@ gid://shopify/TaxonomyAttribute/2856 : Racket string design
 gid://shopify/TaxonomyAttribute/2857 : Racket string material
 gid://shopify/TaxonomyAttribute/1954 : Radar bands
 gid://shopify/TaxonomyAttribute/1848 : Radio case design
+gid://shopify/TaxonomyAttribute/3067 : Radio features
 gid://shopify/TaxonomyAttribute/1311 : Ramp type
 gid://shopify/TaxonomyAttribute/1731 : Range type
 gid://shopify/TaxonomyAttribute/2368 : Rarity
@@ -1270,17 +1416,20 @@ gid://shopify/TaxonomyAttribute/1679 : Razor flexibility
 gid://shopify/TaxonomyAttribute/1680 : Razor head design
 gid://shopify/TaxonomyAttribute/1686 : Razor type
 gid://shopify/TaxonomyAttribute/1918 : Read/Write speed
+gid://shopify/TaxonomyAttribute/3157 : Receipt paper features
 gid://shopify/TaxonomyAttribute/1658 : Reclining function
 gid://shopify/TaxonomyAttribute/2758 : Recommended age group
 gid://shopify/TaxonomyAttribute/1218 : Recommended skill level
 gid://shopify/TaxonomyAttribute/2082 : Recommended use
 gid://shopify/TaxonomyAttribute/2491 : Recorder fingering system
+gid://shopify/TaxonomyAttribute/3096 : Recorder specialized features
 gid://shopify/TaxonomyAttribute/1821 : Recording accessories included
 gid://shopify/TaxonomyAttribute/2246 : Recording quality
 gid://shopify/TaxonomyAttribute/2752 : Recreational vehicle type
 gid://shopify/TaxonomyAttribute/2450 : Reed strength
 gid://shopify/TaxonomyAttribute/2039 : Reel capacity
 gid://shopify/TaxonomyAttribute/2049 : Reflector design
+gid://shopify/TaxonomyAttribute/3198 : Regenerative braking features
 gid://shopify/TaxonomyAttribute/1467 : Region
 gid://shopify/TaxonomyAttribute/2676 : Region code
 gid://shopify/TaxonomyAttribute/2544 : Release schedule
@@ -1315,8 +1464,10 @@ gid://shopify/TaxonomyAttribute/2447 : Rosin form
 gid://shopify/TaxonomyAttribute/2448 : Rosin grade
 gid://shopify/TaxonomyAttribute/2183 : Rotating direction
 gid://shopify/TaxonomyAttribute/1884 : Rotator control technology
+gid://shopify/TaxonomyAttribute/3139 : Rug features
 gid://shopify/TaxonomyAttribute/2803 : Rug material
 gid://shopify/TaxonomyAttribute/2804 : Rug shape
+gid://shopify/TaxonomyAttribute/3136 : Rug/Mat features
 gid://shopify/TaxonomyAttribute/2787 : Rug/Mat material
 gid://shopify/TaxonomyAttribute/1465 : Rum grade
 gid://shopify/TaxonomyAttribute/2523 : SFX control technology
@@ -1331,7 +1482,6 @@ gid://shopify/TaxonomyAttribute/2876 : Saddle seat material
 gid://shopify/TaxonomyAttribute/1716 : Safety certifications
 gid://shopify/TaxonomyAttribute/1725 : Safety device installation
 gid://shopify/TaxonomyAttribute/2949 : Safety equipment material
-gid://shopify/TaxonomyAttribute/1735 : Safety features
 gid://shopify/TaxonomyAttribute/1732 : Safety rail installation
 gid://shopify/TaxonomyAttribute/2756 : Sailboat type
 gid://shopify/TaxonomyAttribute/2181 : Sandblaster application
@@ -1344,15 +1494,22 @@ gid://shopify/TaxonomyAttribute/2572 : Scale material
 gid://shopify/TaxonomyAttribute/2381 : Scale model accessory type
 gid://shopify/TaxonomyAttribute/2932 : Scale model material
 gid://shopify/TaxonomyAttribute/2382 : Scale model theme
+gid://shopify/TaxonomyAttribute/3052 : Scalpel blade material
 gid://shopify/TaxonomyAttribute/2599 : Scalpel blade number
+gid://shopify/TaxonomyAttribute/3053 : Scalpel blade shape
 gid://shopify/TaxonomyAttribute/2600 : Scalpel handle number
+gid://shopify/TaxonomyAttribute/3076 : Scan converter features
+gid://shopify/TaxonomyAttribute/3092 : Scanner features
 gid://shopify/TaxonomyAttribute/1904 : Scanner sensor type
 gid://shopify/TaxonomyAttribute/2024 : Scene modes
 gid://shopify/TaxonomyAttribute/1349 : Scent
 gid://shopify/TaxonomyAttribute/2344 : Scissor blade type
 gid://shopify/TaxonomyAttribute/2037 : Scope/Sight design
+gid://shopify/TaxonomyAttribute/3063 : Scope/Sight features
+gid://shopify/TaxonomyAttribute/3170 : Scoreboard features
 gid://shopify/TaxonomyAttribute/2289 : Scrapbook paper type
 gid://shopify/TaxonomyAttribute/1424 : Screen material
+gid://shopify/TaxonomyAttribute/3084 : Screen specialized features
 gid://shopify/TaxonomyAttribute/2003 : Screen/Display design
 gid://shopify/TaxonomyAttribute/1497 : Seafood type
 gid://shopify/TaxonomyAttribute/2384 : Seal stamp design
@@ -1366,7 +1523,9 @@ gid://shopify/TaxonomyAttribute/1518 : Seat type
 gid://shopify/TaxonomyAttribute/1541 : Seat upholstery material
 gid://shopify/TaxonomyAttribute/1939 : Security algorithms
 gid://shopify/TaxonomyAttribute/2139 : Security level
+gid://shopify/TaxonomyAttribute/3115 : Sensor features
 gid://shopify/TaxonomyAttribute/1332 : Sensor type
+gid://shopify/TaxonomyAttribute/2988 : Sensor/Measuring tool features
 gid://shopify/TaxonomyAttribute/2325 : Sequin shape
 gid://shopify/TaxonomyAttribute/2323 : Sequin/Glitter shape
 gid://shopify/TaxonomyAttribute/2645 : Service type
@@ -1387,6 +1546,7 @@ gid://shopify/TaxonomyAttribute/2567 : Shelf material
 gid://shopify/TaxonomyAttribute/2890 : Shell/Frame material
 gid://shopify/TaxonomyAttribute/2916 : Shingle/Tile material
 gid://shopify/TaxonomyAttribute/1321 : Shoe binding type
+gid://shopify/TaxonomyAttribute/3009 : Shoe features
 gid://shopify/TaxonomyAttribute/846  : Shoe fit
 gid://shopify/TaxonomyAttribute/87   : Shoe size
 gid://shopify/TaxonomyAttribute/2025 : Shooting modes
@@ -1394,6 +1554,7 @@ gid://shopify/TaxonomyAttribute/2945 : Shopping bag material
 gid://shopify/TaxonomyAttribute/2147 : Shower base design
 gid://shopify/TaxonomyAttribute/2791 : Shower curtain mounting type
 gid://shopify/TaxonomyAttribute/2152 : Shower design
+gid://shopify/TaxonomyAttribute/3118 : Shower features
 gid://shopify/TaxonomyAttribute/2167 : Shrink ratio
 gid://shopify/TaxonomyAttribute/2099 : Shutter finish
 gid://shopify/TaxonomyAttribute/2917 : Siding material
@@ -1409,6 +1570,7 @@ gid://shopify/TaxonomyAttribute/2868 : Ski construction
 gid://shopify/TaxonomyAttribute/1317 : Skiing style
 gid://shopify/TaxonomyAttribute/2358 : Skill level
 gid://shopify/TaxonomyAttribute/1617 : Skin care effect
+gid://shopify/TaxonomyAttribute/2991 : Skin care features
 gid://shopify/TaxonomyAttribute/1615 : Skin tone
 gid://shopify/TaxonomyAttribute/1616 : Skin undertone
 gid://shopify/TaxonomyAttribute/1190 : Skirt/Dress length type
@@ -1416,6 +1578,7 @@ gid://shopify/TaxonomyAttribute/1515 : Slat material
 gid://shopify/TaxonomyAttribute/15   : Sleeve length type
 gid://shopify/TaxonomyAttribute/2333 : Slip texture
 gid://shopify/TaxonomyAttribute/1960 : Smart TV platform
+gid://shopify/TaxonomyAttribute/3007 : Smart watch features
 gid://shopify/TaxonomyAttribute/2867 : Snorkel shape
 gid://shopify/TaxonomyAttribute/2894 : Snowboard construction
 gid://shopify/TaxonomyAttribute/1325 : Snowboard design
@@ -1425,8 +1588,11 @@ gid://shopify/TaxonomyAttribute/2214 : Socket driver tip
 gid://shopify/TaxonomyAttribute/2170 : Socket type
 gid://shopify/TaxonomyAttribute/1406 : Soda maker accessories included
 gid://shopify/TaxonomyAttribute/1480 : Soda variety
+gid://shopify/TaxonomyAttribute/3110 : Sofa features
+gid://shopify/TaxonomyAttribute/3169 : Softball discipline
 gid://shopify/TaxonomyAttribute/2052 : Softbox mounting type
 gid://shopify/TaxonomyAttribute/2053 : Softbox shape
+gid://shopify/TaxonomyAttribute/3167 : Software features
 gid://shopify/TaxonomyAttribute/2655 : Software tool type
 gid://shopify/TaxonomyAttribute/2096 : Softwood lumber grade
 gid://shopify/TaxonomyAttribute/2172 : Solar cell type
@@ -1444,6 +1610,7 @@ gid://shopify/TaxonomyAttribute/2431 : Sound effects
 gid://shopify/TaxonomyAttribute/2402 : Sound options
 gid://shopify/TaxonomyAttribute/2411 : Speaker configuration
 gid://shopify/TaxonomyAttribute/1819 : Speaker design
+gid://shopify/TaxonomyAttribute/3065 : Speaker features
 gid://shopify/TaxonomyAttribute/1820 : Speaker technology
 gid://shopify/TaxonomyAttribute/2693 : Speakerphone type
 gid://shopify/TaxonomyAttribute/1273 : Speed settings
@@ -1451,10 +1618,10 @@ gid://shopify/TaxonomyAttribute/2121 : Spike design
 gid://shopify/TaxonomyAttribute/2224 : Spinner type
 gid://shopify/TaxonomyAttribute/1466 : Spirit dilution
 gid://shopify/TaxonomyAttribute/1868 : Splitter use
+gid://shopify/TaxonomyAttribute/3079 : Splitter/Switch features
 gid://shopify/TaxonomyAttribute/1604 : Sponge shape
 gid://shopify/TaxonomyAttribute/1291 : Spool material
 gid://shopify/TaxonomyAttribute/1207 : Sport
-gid://shopify/TaxonomyAttribute/1213 : Sports discipline
 gid://shopify/TaxonomyAttribute/2370 : Sports theme
 gid://shopify/TaxonomyAttribute/1787 : Spout type
 gid://shopify/TaxonomyAttribute/2014 : Spreader type
@@ -1464,11 +1631,12 @@ gid://shopify/TaxonomyAttribute/2349 : Squeegee blade design
 gid://shopify/TaxonomyAttribute/1928 : Stack configuration
 gid://shopify/TaxonomyAttribute/1766 : Stage
 gid://shopify/TaxonomyAttribute/1583 : Stair lifts control type
-gid://shopify/TaxonomyAttribute/1584 : Stair lifts safety features
+gid://shopify/TaxonomyAttribute/3113 : Staircase features
 gid://shopify/TaxonomyAttribute/1585 : Staircase type
 gid://shopify/TaxonomyAttribute/2373 : Stamp theme
 gid://shopify/TaxonomyAttribute/2251 : Stamp type
 gid://shopify/TaxonomyAttribute/2243 : Staple wire gauge
+gid://shopify/TaxonomyAttribute/3161 : Stapler features
 gid://shopify/TaxonomyAttribute/1401 : Star rating
 gid://shopify/TaxonomyAttribute/2179 : Start type
 gid://shopify/TaxonomyAttribute/2685 : Station type
@@ -1489,6 +1657,7 @@ gid://shopify/TaxonomyAttribute/1661 : Stone name
 gid://shopify/TaxonomyAttribute/2322 : Stone shape
 gid://shopify/TaxonomyAttribute/1662 : Stone type
 gid://shopify/TaxonomyAttribute/1833 : Stopband
+gid://shopify/TaxonomyAttribute/3171 : Stopwatch features
 gid://shopify/TaxonomyAttribute/1920 : Storage drive interface type
 gid://shopify/TaxonomyAttribute/1846 : Storage drive interfaces supported
 gid://shopify/TaxonomyAttribute/1922 : Storage drive type installed
@@ -1496,17 +1665,20 @@ gid://shopify/TaxonomyAttribute/1921 : Storage media type
 gid://shopify/TaxonomyAttribute/2180 : Storage tank application
 gid://shopify/TaxonomyAttribute/1876 : Storage types supported
 gid://shopify/TaxonomyAttribute/1364 : Stove airflow
+gid://shopify/TaxonomyAttribute/3151 : Stove top type
 gid://shopify/TaxonomyAttribute/2442 : Strap design
 gid://shopify/TaxonomyAttribute/2513 : Straw/Stirrer design
 gid://shopify/TaxonomyAttribute/2591 : Stretcher/Gurney intended use
 gid://shopify/TaxonomyAttribute/2477 : String instrument size
 gid://shopify/TaxonomyAttribute/1306 : String material
 gid://shopify/TaxonomyAttribute/2074 : Stripper application
+gid://shopify/TaxonomyAttribute/2990 : Stroller features
 gid://shopify/TaxonomyAttribute/1745 : Stroller wheel type
 gid://shopify/TaxonomyAttribute/1351 : Style
 gid://shopify/TaxonomyAttribute/1799 : Stylus type
 gid://shopify/TaxonomyAttribute/2533 : Subject area
 gid://shopify/TaxonomyAttribute/1864 : Subscription type
+gid://shopify/TaxonomyAttribute/2981 : Substrate features
 gid://shopify/TaxonomyAttribute/2211 : Suction cup color
 gid://shopify/TaxonomyAttribute/2212 : Suction cup material
 gid://shopify/TaxonomyAttribute/1781 : Suction levels
@@ -1519,6 +1691,7 @@ gid://shopify/TaxonomyAttribute/1980 : Suitable for camera type
 gid://shopify/TaxonomyAttribute/2005 : Suitable for camera/optics device
 gid://shopify/TaxonomyAttribute/1971 : Suitable for camping activity
 gid://shopify/TaxonomyAttribute/1344 : Suitable for chair type
+gid://shopify/TaxonomyAttribute/3150 : Suitable for container type
 gid://shopify/TaxonomyAttribute/2300 : Suitable for crafting material
 gid://shopify/TaxonomyAttribute/2083 : Suitable for door type
 gid://shopify/TaxonomyAttribute/2281 : Suitable for fabric type
@@ -1532,6 +1705,7 @@ gid://shopify/TaxonomyAttribute/2059 : Suitable for material type
 gid://shopify/TaxonomyAttribute/1390 : Suitable for pest type
 gid://shopify/TaxonomyAttribute/2191 : Suitable for pipe type
 gid://shopify/TaxonomyAttribute/1448 : Suitable for pool type
+gid://shopify/TaxonomyAttribute/3152 : Suitable for power equipment type
 gid://shopify/TaxonomyAttribute/2831 : Suitable for precious material
 gid://shopify/TaxonomyAttribute/1948 : Suitable for printer type
 gid://shopify/TaxonomyAttribute/1683 : Suitable for skin tone
@@ -1543,6 +1717,7 @@ gid://shopify/TaxonomyAttribute/2586 : Suitable for vehicle type
 gid://shopify/TaxonomyAttribute/2133 : Suitable for water feature type
 gid://shopify/TaxonomyAttribute/1707 : Suitable for water type
 gid://shopify/TaxonomyAttribute/2038 : Suitable for weapon type
+gid://shopify/TaxonomyAttribute/3119 : Suitable installation
 gid://shopify/TaxonomyAttribute/1539 : Suitable location
 gid://shopify/TaxonomyAttribute/1214 : Suitable space
 gid://shopify/TaxonomyAttribute/2225 : Suitcase handle type
@@ -1552,11 +1727,13 @@ gid://shopify/TaxonomyAttribute/2239 : Supply shape
 gid://shopify/TaxonomyAttribute/2830 : Support/Brace material
 gid://shopify/TaxonomyAttribute/2647 : Supported language
 gid://shopify/TaxonomyAttribute/2824 : Surface texture
+gid://shopify/TaxonomyAttribute/3178 : Surfboard features
 gid://shopify/TaxonomyAttribute/2029 : Surveillance camera design
 gid://shopify/TaxonomyAttribute/2030 : Surveillance camera mounting type
 gid://shopify/TaxonomyAttribute/1200 : Suspender style
 gid://shopify/TaxonomyAttribute/1356 : Sustainability
 gid://shopify/TaxonomyAttribute/2939 : Swab material
+gid://shopify/TaxonomyAttribute/2999 : Swimwear features
 gid://shopify/TaxonomyAttribute/1228 : Swing style
 gid://shopify/TaxonomyAttribute/1210 : Swing weighting
 gid://shopify/TaxonomyAttribute/2168 : Switch control type
@@ -1573,6 +1750,7 @@ gid://shopify/TaxonomyAttribute/1532 : Tabletop shape
 gid://shopify/TaxonomyAttribute/2819 : Tableware material
 gid://shopify/TaxonomyAttribute/2245 : Tack/Pushpin head design
 gid://shopify/TaxonomyAttribute/2220 : Tag fastening
+gid://shopify/TaxonomyAttribute/3134 : Tampon features
 gid://shopify/TaxonomyAttribute/1633 : Tan type
 gid://shopify/TaxonomyAttribute/2151 : Tank color
 gid://shopify/TaxonomyAttribute/1423 : Tank material
@@ -1587,6 +1765,7 @@ gid://shopify/TaxonomyAttribute/1421 : Teeth material
 gid://shopify/TaxonomyAttribute/1896 : Telephone cable interface
 gid://shopify/TaxonomyAttribute/1850 : Telephone style
 gid://shopify/TaxonomyAttribute/1961 : Television shape
+gid://shopify/TaxonomyAttribute/3094 : Television specialized features
 gid://shopify/TaxonomyAttribute/2351 : Temperature
 gid://shopify/TaxonomyAttribute/1774 : Temperature control
 gid://shopify/TaxonomyAttribute/1555 : Temperature measurement
@@ -1601,6 +1780,7 @@ gid://shopify/TaxonomyAttribute/1576 : Test method
 gid://shopify/TaxonomyAttribute/1556 : Test sample
 gid://shopify/TaxonomyAttribute/2892 : Tetherball equipment included
 gid://shopify/TaxonomyAttribute/2252 : Text plate material
+gid://shopify/TaxonomyAttribute/3020 : Textile craft machine features
 gid://shopify/TaxonomyAttribute/2315 : Textile craft project type
 gid://shopify/TaxonomyAttribute/1558 : Texture
 gid://shopify/TaxonomyAttribute/1568 : Texture level
@@ -1612,6 +1792,7 @@ gid://shopify/TaxonomyAttribute/2075 : Thinner application
 gid://shopify/TaxonomyAttribute/2126 : Thread direction
 gid://shopify/TaxonomyAttribute/2127 : Threaded rod size
 gid://shopify/TaxonomyAttribute/2806 : Throw pillow shape
+gid://shopify/TaxonomyAttribute/3010 : Ticket additional features
 gid://shopify/TaxonomyAttribute/2276 : Ticket type
 gid://shopify/TaxonomyAttribute/2101 : Tile design
 gid://shopify/TaxonomyAttribute/2102 : Tile look
@@ -1620,7 +1801,9 @@ gid://shopify/TaxonomyAttribute/2103 : Tile texture
 gid://shopify/TaxonomyAttribute/2534 : Time period
 gid://shopify/TaxonomyAttribute/2403 : Time signatures
 gid://shopify/TaxonomyAttribute/2202 : Time weighting
+gid://shopify/TaxonomyAttribute/3042 : Timepiece features
 gid://shopify/TaxonomyAttribute/2040 : Timer design
+gid://shopify/TaxonomyAttribute/3041 : Timer features
 gid://shopify/TaxonomyAttribute/1439 : Timer type
 gid://shopify/TaxonomyAttribute/2603 : Tip design
 gid://shopify/TaxonomyAttribute/1635 : Tip material
@@ -1629,10 +1812,12 @@ gid://shopify/TaxonomyAttribute/1606 : Tip style
 gid://shopify/TaxonomyAttribute/1297 : Tip type
 gid://shopify/TaxonomyAttribute/1281 : Tire bead type
 gid://shopify/TaxonomyAttribute/1501 : Tobacco type
+gid://shopify/TaxonomyAttribute/3105 : Toddler bed features
 gid://shopify/TaxonomyAttribute/1607 : Toe spacer design
 gid://shopify/TaxonomyAttribute/1322 : Toe strap type
 gid://shopify/TaxonomyAttribute/847  : Toe style
 gid://shopify/TaxonomyAttribute/2149 : Toilet cover design
+gid://shopify/TaxonomyAttribute/3116 : Toilet cover features
 gid://shopify/TaxonomyAttribute/2158 : Toilet mounting type
 gid://shopify/TaxonomyAttribute/2159 : Toilet shape
 gid://shopify/TaxonomyAttribute/2961 : Toilet/Bidet mounting type
@@ -1650,16 +1835,21 @@ gid://shopify/TaxonomyAttribute/2223 : Tote handle type
 gid://shopify/TaxonomyAttribute/2549 : Totem design
 gid://shopify/TaxonomyAttribute/1881 : Touch capabilities
 gid://shopify/TaxonomyAttribute/1882 : Touchscreen technology
+gid://shopify/TaxonomyAttribute/3193 : Toy figure features
 gid://shopify/TaxonomyAttribute/2896 : Toy/Game material
 gid://shopify/TaxonomyAttribute/1549 : Tracking metrics
 gid://shopify/TaxonomyAttribute/1934 : Tracking purpose
+gid://shopify/TaxonomyAttribute/3046 : Trade show display features
 gid://shopify/TaxonomyAttribute/2369 : Trading card packaging
+gid://shopify/TaxonomyAttribute/3047 : Traffic control device features
 gid://shopify/TaxonomyAttribute/2032 : Trail camera design
 gid://shopify/TaxonomyAttribute/2724 : Trailer type
 gid://shopify/TaxonomyAttribute/2653 : Training data requirements
 gid://shopify/TaxonomyAttribute/2766 : Trampoline design
+gid://shopify/TaxonomyAttribute/3160 : Transcriber/Dictation system features
 gid://shopify/TaxonomyAttribute/1586 : Transfer boards surface type
 gid://shopify/TaxonomyAttribute/2699 : Transmission type
+gid://shopify/TaxonomyAttribute/3039 : Trash can features
 gid://shopify/TaxonomyAttribute/1689 : Travel pillow shape
 gid://shopify/TaxonomyAttribute/1529 : Treatment area
 gid://shopify/TaxonomyAttribute/1564 : Treatment objective
@@ -1670,9 +1860,9 @@ gid://shopify/TaxonomyAttribute/2108 : Trellis design
 gid://shopify/TaxonomyAttribute/2877 : Tricycle design
 gid://shopify/TaxonomyAttribute/2878 : Tricycle propulsion type
 gid://shopify/TaxonomyAttribute/2166 : Trip type
+gid://shopify/TaxonomyAttribute/3061 : Tripod handle type
+gid://shopify/TaxonomyAttribute/3060 : Tripod/Monopod attachment type
 gid://shopify/TaxonomyAttribute/2009 : Tripod/Monopod head type
-gid://shopify/TaxonomyAttribute/2013 : Tripop handle type
-gid://shopify/TaxonomyAttribute/2010 : Tripop/Monopod attachment type
 gid://shopify/TaxonomyAttribute/2528 : Trophy design
 gid://shopify/TaxonomyAttribute/2747 : Truck type
 gid://shopify/TaxonomyAttribute/2595 : Tube color
@@ -1706,13 +1896,30 @@ gid://shopify/TaxonomyAttribute/2748 : Van type
 gid://shopify/TaxonomyAttribute/1511 : Vaping style
 gid://shopify/TaxonomyAttribute/2067 : Varnish/Finish application
 gid://shopify/TaxonomyAttribute/1355 : Vase shape
+gid://shopify/TaxonomyAttribute/3214 : Vehicle alarm/lock features
 gid://shopify/TaxonomyAttribute/2706 : Vehicle application area
+gid://shopify/TaxonomyAttribute/3199 : Vehicle audio system features
+gid://shopify/TaxonomyAttribute/3201 : Vehicle braking features
+gid://shopify/TaxonomyAttribute/3211 : Vehicle cleaning item features
+gid://shopify/TaxonomyAttribute/3212 : Vehicle decor features
+gid://shopify/TaxonomyAttribute/3210 : Vehicle drive/handling features
+gid://shopify/TaxonomyAttribute/3205 : Vehicle engine features
+gid://shopify/TaxonomyAttribute/3203 : Vehicle engine part features
+gid://shopify/TaxonomyAttribute/3204 : Vehicle engine/part features
+gid://shopify/TaxonomyAttribute/3215 : Vehicle features
+gid://shopify/TaxonomyAttribute/3213 : Vehicle fluid features
+gid://shopify/TaxonomyAttribute/3206 : Vehicle frame/body features
+gid://shopify/TaxonomyAttribute/3207 : Vehicle mirror features
+gid://shopify/TaxonomyAttribute/3202 : Vehicle oil features
 gid://shopify/TaxonomyAttribute/2713 : Vehicle paint type
 gid://shopify/TaxonomyAttribute/1271 : Vehicle placement
+gid://shopify/TaxonomyAttribute/3208 : Vehicle seating features
+gid://shopify/TaxonomyAttribute/3209 : Vehicle suspension features
 gid://shopify/TaxonomyAttribute/2701 : Vehicle tire type
 gid://shopify/TaxonomyAttribute/2705 : Vehicle type
 gid://shopify/TaxonomyAttribute/2607 : Verification technology
 gid://shopify/TaxonomyAttribute/1963 : Video codecs/formats supported
+gid://shopify/TaxonomyAttribute/3168 : Video game content features
 gid://shopify/TaxonomyAttribute/2677 : Video game genre
 gid://shopify/TaxonomyAttribute/2678 : Video game sub-genre
 gid://shopify/TaxonomyAttribute/1916 : Video port type
@@ -1725,28 +1932,36 @@ gid://shopify/TaxonomyAttribute/1489 : Vinegar variety
 gid://shopify/TaxonomyAttribute/2711 : Viscosity
 gid://shopify/TaxonomyAttribute/2303 : Visual effect
 gid://shopify/TaxonomyAttribute/1942 : VoIP protocol support
+gid://shopify/TaxonomyAttribute/3185 : Wader type
 gid://shopify/TaxonomyAttribute/37   : Waist rise
 gid://shopify/TaxonomyAttribute/1449 : Wall material
 gid://shopify/TaxonomyAttribute/2077 : Wall patching application
 gid://shopify/TaxonomyAttribute/2174 : Wall plate style
+gid://shopify/TaxonomyAttribute/3005 : Wallet features
 gid://shopify/TaxonomyAttribute/1357 : Wallpaper application method
 gid://shopify/TaxonomyAttribute/2665 : Wallpaper theme
 gid://shopify/TaxonomyAttribute/2631 : Warning category
 gid://shopify/TaxonomyAttribute/2128 : Washer form
+gid://shopify/TaxonomyAttribute/3141 : Washer/Dryer features
+gid://shopify/TaxonomyAttribute/3143 : Washing machine features
 gid://shopify/TaxonomyAttribute/1389 : Washing method
 gid://shopify/TaxonomyAttribute/1377 : Washing programs
+gid://shopify/TaxonomyAttribute/2993 : Waste bag features
 gid://shopify/TaxonomyAttribute/2899 : Waste bag material
 gid://shopify/TaxonomyAttribute/1202 : Watch accessory style
 gid://shopify/TaxonomyAttribute/1201 : Watch display
+gid://shopify/TaxonomyAttribute/3008 : Watch features
 gid://shopify/TaxonomyAttribute/2785 : Watch material
 gid://shopify/TaxonomyAttribute/2951 : Watch/Band material
 gid://shopify/TaxonomyAttribute/1407 : Water filter application
 gid://shopify/TaxonomyAttribute/1249 : Water sport
 gid://shopify/TaxonomyAttribute/2737 : Watercraft engine control type
+gid://shopify/TaxonomyAttribute/3216 : Watercraft features
 gid://shopify/TaxonomyAttribute/2739 : Watercraft motor mounting type
 gid://shopify/TaxonomyAttribute/2863 : Watercraft propulsion type
 gid://shopify/TaxonomyAttribute/2743 : Watercraft steering wheel type
 gid://shopify/TaxonomyAttribute/2755 : Watercraft type
+gid://shopify/TaxonomyAttribute/3180 : Waveski features
 gid://shopify/TaxonomyAttribute/2893 : Wax application method
 gid://shopify/TaxonomyAttribute/2279 : Wax type
 gid://shopify/TaxonomyAttribute/2105 : Weather strip design
@@ -1756,6 +1971,8 @@ gid://shopify/TaxonomyAttribute/1233 : Weight bar activity
 gid://shopify/TaxonomyAttribute/1234 : Weight bar type
 gid://shopify/TaxonomyAttribute/2392 : Weight type
 gid://shopify/TaxonomyAttribute/1552 : Weight unit supported
+gid://shopify/TaxonomyAttribute/3059 : Welding helmet features
+gid://shopify/TaxonomyAttribute/3040 : Wet bag features
 gid://shopify/TaxonomyAttribute/1314 : Wheel hardness
 gid://shopify/TaxonomyAttribute/1315 : Wheel hub placement
 gid://shopify/TaxonomyAttribute/2704 : Wheel part type
@@ -1765,14 +1982,18 @@ gid://shopify/TaxonomyAttribute/1469 : Whiskey style
 gid://shopify/TaxonomyAttribute/1470 : Whiskey variety
 gid://shopify/TaxonomyAttribute/1940 : Wi-Fi band
 gid://shopify/TaxonomyAttribute/1847 : Wi-Fi standard
+gid://shopify/TaxonomyAttribute/3024 : Winder features
 gid://shopify/TaxonomyAttribute/2730 : Windlass design
 gid://shopify/TaxonomyAttribute/2807 : Window treatment material
 gid://shopify/TaxonomyAttribute/2869 : Windsurfing board style
 gid://shopify/TaxonomyAttribute/1526 : Wine rack design
 gid://shopify/TaxonomyAttribute/1475 : Wine sweetness
 gid://shopify/TaxonomyAttribute/1476 : Wine variety
+gid://shopify/TaxonomyAttribute/3031 : Wipe dispenser features
+gid://shopify/TaxonomyAttribute/3032 : Wipe dispenser/warmer features
 gid://shopify/TaxonomyAttribute/1722 : Wipe fragrance
 gid://shopify/TaxonomyAttribute/1753 : Wipe packaging
+gid://shopify/TaxonomyAttribute/3033 : Wipe warmer features
 gid://shopify/TaxonomyAttribute/2341 : Wire thickness
 gid://shopify/TaxonomyAttribute/2903 : Wire/Rope material
 gid://shopify/TaxonomyAttribute/2451 : Woodwind care items included

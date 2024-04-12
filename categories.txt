@@ -1,4 +1,4 @@
-# Shopify Product Taxonomy - Categories: 0.14.0
+# Shopify Product Taxonomy - Categories: 0.15.0
 # Format: {GID} : {Ancestor name} > ... > {Category name}
 
 gid://shopify/TaxonomyCategory/ap                : Animals & Pet Supplies
@@ -13,9 +13,6 @@ gid://shopify/TaxonomyCategory/ap-2-1-1-2-2      : Animals & Pet Supplies > Pet 
 gid://shopify/TaxonomyCategory/ap-2-1-1-2-3      : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Cage Accessories > Bird Cage Food & Water Dishes > Combined Bird Cage Food & Water Dishes
 gid://shopify/TaxonomyCategory/ap-2-1-2          : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Cages & Stands
 gid://shopify/TaxonomyCategory/ap-2-1-3          : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Food
-gid://shopify/TaxonomyCategory/ap-2-1-3-1        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Food > Compound Feed & Granules
-gid://shopify/TaxonomyCategory/ap-2-1-3-2        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Food > Seeds
-gid://shopify/TaxonomyCategory/ap-2-1-3-3        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Food > Worms
 gid://shopify/TaxonomyCategory/ap-2-1-4          : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Gyms & Playstands
 gid://shopify/TaxonomyCategory/ap-2-1-5          : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Ladders & Perches
 gid://shopify/TaxonomyCategory/ap-2-1-5-1        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Ladders & Perches > Ladders & Steps
@@ -30,15 +27,6 @@ gid://shopify/TaxonomyCategory/ap-2-1-6-7        : Animals & Pet Supplies > Pet 
 gid://shopify/TaxonomyCategory/ap-2-1-6-8        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Toys > Ropes & Knots
 gid://shopify/TaxonomyCategory/ap-2-1-6-9        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Toys > Tunnels & Tubes
 gid://shopify/TaxonomyCategory/ap-2-1-7          : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats
-gid://shopify/TaxonomyCategory/ap-2-1-7-1        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats > Biscuits & Bakery
-gid://shopify/TaxonomyCategory/ap-2-1-7-2        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats > Cuttlebone & Mineral Blocks
-gid://shopify/TaxonomyCategory/ap-2-1-7-3        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats > Egg & Protein Treats
-gid://shopify/TaxonomyCategory/ap-2-1-7-4        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats > Fruit & Vegetables
-gid://shopify/TaxonomyCategory/ap-2-1-7-5        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats > Grit & Conditioning
-gid://shopify/TaxonomyCategory/ap-2-1-7-6        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats > Honey Sticks
-gid://shopify/TaxonomyCategory/ap-2-1-7-7        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats > Nectar & Pollen
-gid://shopify/TaxonomyCategory/ap-2-1-7-8        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats > Nuts
-gid://shopify/TaxonomyCategory/ap-2-1-7-9        : Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats > Pellets
 gid://shopify/TaxonomyCategory/ap-2-2            : Animals & Pet Supplies > Pet Supplies > Cat Supplies
 gid://shopify/TaxonomyCategory/ap-2-2-1          : Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Food
 gid://shopify/TaxonomyCategory/ap-2-2-1-1        : Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Food > Non-Prescription Cat Food
@@ -69,10 +57,6 @@ gid://shopify/TaxonomyCategory/ap-2-2-5-10       : Animals & Pet Supplies > Pet 
 gid://shopify/TaxonomyCategory/ap-2-2-5-11       : Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Toys > Tunnels
 gid://shopify/TaxonomyCategory/ap-2-2-5-12       : Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Toys > Wands
 gid://shopify/TaxonomyCategory/ap-2-2-6          : Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Treats
-gid://shopify/TaxonomyCategory/ap-2-2-6-1        : Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Treats > Catnip Treats
-gid://shopify/TaxonomyCategory/ap-2-2-6-3        : Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Treats > Freeze-Dried Treats
-gid://shopify/TaxonomyCategory/ap-2-2-6-4        : Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Treats > Hairball Controls
-gid://shopify/TaxonomyCategory/ap-2-2-6-5        : Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Treats > Soft & Chewy Treats
 gid://shopify/TaxonomyCategory/ap-2-3            : Animals & Pet Supplies > Pet Supplies > Dog Supplies
 gid://shopify/TaxonomyCategory/ap-2-3-1          : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Diaper Pads & Liners
 gid://shopify/TaxonomyCategory/ap-2-3-2          : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Diapers
@@ -90,11 +74,6 @@ gid://shopify/TaxonomyCategory/ap-2-3-6-5        : Animals & Pet Supplies > Pet 
 gid://shopify/TaxonomyCategory/ap-2-3-7          : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Toys
 gid://shopify/TaxonomyCategory/ap-2-3-8          : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Treadmills
 gid://shopify/TaxonomyCategory/ap-2-3-9          : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Treats
-gid://shopify/TaxonomyCategory/ap-2-3-9-1        : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Treats > Biscuits & Cookies
-gid://shopify/TaxonomyCategory/ap-2-3-9-2        : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Treats > Bone Chews
-gid://shopify/TaxonomyCategory/ap-2-3-9-3        : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Treats > Chewy Dog Treats
-gid://shopify/TaxonomyCategory/ap-2-3-9-4        : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Treats > Freeze-Dried Dog Treats
-gid://shopify/TaxonomyCategory/ap-2-3-9-5        : Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Treats > Rawhide Dog Treats
 gid://shopify/TaxonomyCategory/ap-2-4            : Animals & Pet Supplies > Pet Supplies > Fish & Aquatic Supplies
 gid://shopify/TaxonomyCategory/ap-2-4-1          : Animals & Pet Supplies > Pet Supplies > Fish & Aquatic Supplies > Aquarium & Pond Tubings
 gid://shopify/TaxonomyCategory/ap-2-4-1-1        : Animals & Pet Supplies > Pet Supplies > Fish & Aquatic Supplies > Aquarium & Pond Tubings > Airlines
@@ -389,6 +368,7 @@ gid://shopify/TaxonomyCategory/ap-2-41-2-3       : Animals & Pet Supplies > Pet 
 gid://shopify/TaxonomyCategory/ap-2-41-3         : Animals & Pet Supplies > Pet Supplies > Pet Training Aids > Pet Training Pads
 gid://shopify/TaxonomyCategory/ap-2-41-4         : Animals & Pet Supplies > Pet Supplies > Pet Training Aids > Pet Training Sprays & Solutions
 gid://shopify/TaxonomyCategory/ap-2-42           : Animals & Pet Supplies > Pet Supplies > Pet Vitamins & Supplements
+gid://shopify/TaxonomyCategory/ap-2-42-11        : Animals & Pet Supplies > Pet Supplies > Pet Vitamins & Supplements > CBD Supplements
 gid://shopify/TaxonomyCategory/ap-2-42-2         : Animals & Pet Supplies > Pet Supplies > Pet Vitamins & Supplements > Calcium
 gid://shopify/TaxonomyCategory/ap-2-42-3         : Animals & Pet Supplies > Pet Supplies > Pet Vitamins & Supplements > Dental Health
 gid://shopify/TaxonomyCategory/ap-2-42-4         : Animals & Pet Supplies > Pet Supplies > Pet Vitamins & Supplements > Fish Oil
@@ -450,7 +430,6 @@ gid://shopify/TaxonomyCategory/aa-1-1-1-7        : Apparel & Accessories > Cloth
 gid://shopify/TaxonomyCategory/aa-1-1-1-8        : Apparel & Accessories > Clothing > Activewear > Activewear Pants > Wind Pants
 gid://shopify/TaxonomyCategory/aa-1-1-7          : Apparel & Accessories > Clothing > Activewear > Activewear Sweatshirts & Hoodies
 gid://shopify/TaxonomyCategory/aa-1-1-7-2        : Apparel & Accessories > Clothing > Activewear > Activewear Sweatshirts & Hoodies > Hoodies
-gid://shopify/TaxonomyCategory/aa-1-1-7-3        : Apparel & Accessories > Clothing > Activewear > Activewear Sweatshirts & Hoodies > Sweaters
 gid://shopify/TaxonomyCategory/aa-1-1-7-4        : Apparel & Accessories > Clothing > Activewear > Activewear Sweatshirts & Hoodies > Sweatshirts
 gid://shopify/TaxonomyCategory/aa-1-1-7-5        : Apparel & Accessories > Clothing > Activewear > Activewear Sweatshirts & Hoodies > Track Jackets
 gid://shopify/TaxonomyCategory/aa-1-1-2          : Apparel & Accessories > Clothing > Activewear > Activewear Tops
@@ -516,10 +495,14 @@ gid://shopify/TaxonomyCategory/aa-1-2-8-24       : Apparel & Accessories > Cloth
 gid://shopify/TaxonomyCategory/aa-1-2-9          : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops
 gid://shopify/TaxonomyCategory/aa-1-2-9-2        : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > Bodysuits
 gid://shopify/TaxonomyCategory/aa-1-2-9-3        : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > Cardigans
+gid://shopify/TaxonomyCategory/aa-1-2-9-11       : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > Hoodies
 gid://shopify/TaxonomyCategory/aa-1-2-9-4        : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > Overshirts
 gid://shopify/TaxonomyCategory/aa-1-2-9-5        : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > Polos
 gid://shopify/TaxonomyCategory/aa-1-2-9-6        : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > Shirts
+gid://shopify/TaxonomyCategory/aa-1-2-9-12       : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > Sweaters
+gid://shopify/TaxonomyCategory/aa-1-2-9-13       : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > Sweatshirts
 gid://shopify/TaxonomyCategory/aa-1-2-9-7        : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > T-Shirts
+gid://shopify/TaxonomyCategory/aa-1-2-9-10       : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops > Tunics
 gid://shopify/TaxonomyCategory/aa-1-2-10         : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby One-Pieces
 gid://shopify/TaxonomyCategory/aa-1-2-11         : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Toddler Underwear
 gid://shopify/TaxonomyCategory/aa-1-2-11-1       : Apparel & Accessories > Clothing > Baby & Toddler Clothing > Toddler Underwear > Boxer Briefs
@@ -540,9 +523,12 @@ gid://shopify/TaxonomyCategory/aa-1-13           : Apparel & Accessories > Cloth
 gid://shopify/TaxonomyCategory/aa-1-13-1         : Apparel & Accessories > Clothing > Clothing Tops > Blouses
 gid://shopify/TaxonomyCategory/aa-1-13-2         : Apparel & Accessories > Clothing > Clothing Tops > Bodysuits
 gid://shopify/TaxonomyCategory/aa-1-13-3         : Apparel & Accessories > Clothing > Clothing Tops > Cardigans
+gid://shopify/TaxonomyCategory/aa-1-13-13        : Apparel & Accessories > Clothing > Clothing Tops > Hoodies
 gid://shopify/TaxonomyCategory/aa-1-13-5         : Apparel & Accessories > Clothing > Clothing Tops > Overshirts
 gid://shopify/TaxonomyCategory/aa-1-13-6         : Apparel & Accessories > Clothing > Clothing Tops > Polos
 gid://shopify/TaxonomyCategory/aa-1-13-7         : Apparel & Accessories > Clothing > Clothing Tops > Shirts
+gid://shopify/TaxonomyCategory/aa-1-13-12        : Apparel & Accessories > Clothing > Clothing Tops > Sweaters
+gid://shopify/TaxonomyCategory/aa-1-13-14        : Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts
 gid://shopify/TaxonomyCategory/aa-1-13-8         : Apparel & Accessories > Clothing > Clothing Tops > T-Shirts
 gid://shopify/TaxonomyCategory/aa-1-13-9         : Apparel & Accessories > Clothing > Clothing Tops > Tank Tops
 gid://shopify/TaxonomyCategory/aa-1-13-11        : Apparel & Accessories > Clothing > Clothing Tops > Tunics
@@ -559,6 +545,7 @@ gid://shopify/TaxonomyCategory/aa-1-5-2-6        : Apparel & Accessories > Cloth
 gid://shopify/TaxonomyCategory/aa-1-5-2-7        : Apparel & Accessories > Clothing > Girls' Underwear > Girls' Underpants > Period Underwear
 gid://shopify/TaxonomyCategory/aa-1-5-2-8        : Apparel & Accessories > Clothing > Girls' Underwear > Girls' Underpants > Thongs
 gid://shopify/TaxonomyCategory/aa-1-5-3          : Apparel & Accessories > Clothing > Girls' Underwear > Girls' Undershirts
+gid://shopify/TaxonomyCategory/aa-1-5-3-2        : Apparel & Accessories > Clothing > Girls' Underwear > Girls' Undershirts > First Bras
 gid://shopify/TaxonomyCategory/aa-1-6            : Apparel & Accessories > Clothing > Lingerie
 gid://shopify/TaxonomyCategory/aa-1-6-1          : Apparel & Accessories > Clothing > Lingerie > Bodysuits
 gid://shopify/TaxonomyCategory/aa-1-6-2          : Apparel & Accessories > Clothing > Lingerie > Bra Accessories
@@ -690,6 +677,7 @@ gid://shopify/TaxonomyCategory/aa-1-17-2-1-4     : Apparel & Accessories > Cloth
 gid://shopify/TaxonomyCategory/aa-1-17-2-1-5     : Apparel & Accessories > Clothing > Sleepwear & Loungewear > Loungewear > Loungewear Bottoms > Skirts
 gid://shopify/TaxonomyCategory/aa-1-17-2-2       : Apparel & Accessories > Clothing > Sleepwear & Loungewear > Loungewear > Loungewear Tops
 gid://shopify/TaxonomyCategory/aa-1-17-3         : Apparel & Accessories > Clothing > Sleepwear & Loungewear > Nightgowns
+gid://shopify/TaxonomyCategory/aa-1-17-6         : Apparel & Accessories > Clothing > Sleepwear & Loungewear > Onesies
 gid://shopify/TaxonomyCategory/aa-1-17-4         : Apparel & Accessories > Clothing > Sleepwear & Loungewear > Pajamas
 gid://shopify/TaxonomyCategory/aa-1-17-5         : Apparel & Accessories > Clothing > Sleepwear & Loungewear > Robes
 gid://shopify/TaxonomyCategory/aa-1-18           : Apparel & Accessories > Clothing > Socks
@@ -4012,6 +4000,7 @@ gid://shopify/TaxonomyCategory/fb-3-2            : Food, Beverages & Tobacco > T
 gid://shopify/TaxonomyCategory/fb-3-3            : Food, Beverages & Tobacco > Tobacco Products > Cigarettes
 gid://shopify/TaxonomyCategory/fb-3-4            : Food, Beverages & Tobacco > Tobacco Products > Cigars
 gid://shopify/TaxonomyCategory/fb-3-5            : Food, Beverages & Tobacco > Tobacco Products > Loose Tobacco
+gid://shopify/TaxonomyCategory/fb-3-8            : Food, Beverages & Tobacco > Tobacco Products > Rolling Papers
 gid://shopify/TaxonomyCategory/fb-3-6            : Food, Beverages & Tobacco > Tobacco Products > Smoking Pipes
 gid://shopify/TaxonomyCategory/fb-3-7            : Food, Beverages & Tobacco > Tobacco Products > Vaporizers & Electronic Cigarettes
 gid://shopify/TaxonomyCategory/fb-3-7-1          : Food, Beverages & Tobacco > Tobacco Products > Vaporizers & Electronic Cigarettes > E-Liquid
@@ -5543,6 +5532,7 @@ gid://shopify/TaxonomyCategory/hb-1-9-4          : Health & Beauty > Health Care
 gid://shopify/TaxonomyCategory/hb-1-9-5          : Health & Beauty > Health Care > Fitness & Nutrition > Tube Feeding Supplements
 gid://shopify/TaxonomyCategory/hb-1-9-6          : Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements
 gid://shopify/TaxonomyCategory/hb-1-9-6-1        : Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements > Amino Acids
+gid://shopify/TaxonomyCategory/hb-1-9-6-10       : Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements > CBD Supplements
 gid://shopify/TaxonomyCategory/hb-1-9-6-2        : Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements > Collagen
 gid://shopify/TaxonomyCategory/hb-1-9-6-3        : Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements > Creatine
 gid://shopify/TaxonomyCategory/hb-1-9-6-4        : Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements > Digestive Supplements
@@ -5832,39 +5822,8 @@ gid://shopify/TaxonomyCategory/hb-3-10-12-7      : Health & Beauty > Personal Ca
 gid://shopify/TaxonomyCategory/hb-3-10-12-9      : Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Hair Styling Tool Sets
 gid://shopify/TaxonomyCategory/hb-3-10-13        : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner
 gid://shopify/TaxonomyCategory/hb-3-10-13-1      : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-1    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Co-Wash Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-2    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Color-Safe Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-3    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Curl-Defining Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-4    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Damage Repair Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-5    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Dandruff Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-6    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Deep Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-7    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Detangling Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-8    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Hair-Thickening Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-9    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Leave-In Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-10   : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Smoothing Conditioners
-gid://shopify/TaxonomyCategory/hb-3-10-13-1-11   : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Conditioners > Volumizing Conditioners
 gid://shopify/TaxonomyCategory/hb-3-10-13-3      : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-1    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Clarifying Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-2    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Color-Safe Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-3    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Curl-Defining Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-4    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Damage Repair Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-5    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Dandruff Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-6    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Deep Cleansing Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-7    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Detox Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-8    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Dry Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-9    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Hair-Thickening Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-10   : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Hydrating Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-11   : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Moisturizing Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-12   : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Smoothing Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-13   : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Toning Shampoo
-gid://shopify/TaxonomyCategory/hb-3-10-13-3-14   : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo > Volumizing Shampoo
 gid://shopify/TaxonomyCategory/hb-3-10-13-2      : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo & Conditioner Sets
-gid://shopify/TaxonomyCategory/hb-3-10-13-2-1    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo & Conditioner Sets > Color-Safe Sets
-gid://shopify/TaxonomyCategory/hb-3-10-13-2-2    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo & Conditioner Sets > Hydrating Sets
-gid://shopify/TaxonomyCategory/hb-3-10-13-2-3    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo & Conditioner Sets > Repairing Sets
-gid://shopify/TaxonomyCategory/hb-3-10-13-2-4    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo & Conditioner Sets > Scalp Care Sets
-gid://shopify/TaxonomyCategory/hb-3-10-13-2-5    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo & Conditioner Sets > Smoothing Sets
-gid://shopify/TaxonomyCategory/hb-3-10-13-2-6    : Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner > Shampoo & Conditioner Sets > Volumizing Sets
 gid://shopify/TaxonomyCategory/hb-3-11           : Health & Beauty > Personal Care > Massage & Relaxation
 gid://shopify/TaxonomyCategory/hb-3-11-1         : Health & Beauty > Personal Care > Massage & Relaxation > Back Scratchers
 gid://shopify/TaxonomyCategory/hb-3-11-2         : Health & Beauty > Personal Care > Massage & Relaxation > Eye Pillows
@@ -6391,6 +6350,7 @@ gid://shopify/TaxonomyCategory/hg-9-3-4-3        : Home & Garden > Household App
 gid://shopify/TaxonomyCategory/hg-9-3-4-5        : Home & Garden > Household Appliances > Floor & Steam Cleaners > Floor Scrubbers > Ride-On Floor Scrubbers
 gid://shopify/TaxonomyCategory/hg-9-3-4-6        : Home & Garden > Household Appliances > Floor & Steam Cleaners > Floor Scrubbers > Spin Mop Floor Scrubbers
 gid://shopify/TaxonomyCategory/hg-9-3-4-7        : Home & Garden > Household Appliances > Floor & Steam Cleaners > Floor Scrubbers > Walk-Behind Floor Scrubbers
+gid://shopify/TaxonomyCategory/hg-9-3-5          : Home & Garden > Household Appliances > Floor & Steam Cleaners > Handheld Steam Cleaners
 gid://shopify/TaxonomyCategory/hg-9-3-6          : Home & Garden > Household Appliances > Floor & Steam Cleaners > Steam Mops
 gid://shopify/TaxonomyCategory/hg-9-3-6-1        : Home & Garden > Household Appliances > Floor & Steam Cleaners > Steam Mops > 2-in-1 Steam Mops
 gid://shopify/TaxonomyCategory/hg-9-3-6-2        : Home & Garden > Household Appliances > Floor & Steam Cleaners > Steam Mops > Cylinder Steam Mops
@@ -7680,6 +7640,7 @@ gid://shopify/TaxonomyCategory/lb-13             : Luggage & Bags > Tote Bags
 gid://shopify/TaxonomyCategory/lb-14             : Luggage & Bags > Train Cases
 gid://shopify/TaxonomyCategory/ma                : Mature
 gid://shopify/TaxonomyCategory/ma-1              : Mature > Erotic
+gid://shopify/TaxonomyCategory/ma-1-6            : Mature > Erotic > Erotic Books
 gid://shopify/TaxonomyCategory/ma-1-1            : Mature > Erotic > Erotic Clothing
 gid://shopify/TaxonomyCategory/ma-1-2            : Mature > Erotic > Erotic Food & Edibles
 gid://shopify/TaxonomyCategory/ma-1-3            : Mature > Erotic > Erotic Magazines
@@ -7705,6 +7666,7 @@ gid://shopify/TaxonomyCategory/ma-2-2            : Mature > Weapons & Weapon Acc
 gid://shopify/TaxonomyCategory/ma-2-2-1          : Mature > Weapons & Weapon Accessories > Weapons > Brass Knuckles
 gid://shopify/TaxonomyCategory/ma-2-2-2          : Mature > Weapons & Weapon Accessories > Weapons > Clubs & Batons
 gid://shopify/TaxonomyCategory/ma-2-2-3          : Mature > Weapons & Weapon Accessories > Weapons > Combat Knives
+gid://shopify/TaxonomyCategory/ma-2-2-12         : Mature > Weapons & Weapon Accessories > Weapons > Guns
 gid://shopify/TaxonomyCategory/ma-2-2-4          : Mature > Weapons & Weapon Accessories > Weapons > Mace & Pepper Spray
 gid://shopify/TaxonomyCategory/ma-2-2-5          : Mature > Weapons & Weapon Accessories > Weapons > Nunchucks
 gid://shopify/TaxonomyCategory/ma-2-2-6          : Mature > Weapons & Weapon Accessories > Weapons > Spears
@@ -7831,12 +7793,10 @@ gid://shopify/TaxonomyCategory/os-4-9-6          : Office Supplies > General Off
 gid://shopify/TaxonomyCategory/os-4-9-7          : Office Supplies > General Office Supplies > Paper Products > Envelopes
 gid://shopify/TaxonomyCategory/os-4-9-8          : Office Supplies > General Office Supplies > Paper Products > Index Cards
 gid://shopify/TaxonomyCategory/os-4-9-9          : Office Supplies > General Office Supplies > Paper Products > Notebooks & Notepads
-gid://shopify/TaxonomyCategory/os-4-9-9-1        : Office Supplies > General Office Supplies > Paper Products > Notebooks & Notepads > Composition Notebooks
 gid://shopify/TaxonomyCategory/os-4-9-9-3        : Office Supplies > General Office Supplies > Paper Products > Notebooks & Notepads > Journals
 gid://shopify/TaxonomyCategory/os-4-9-9-4        : Office Supplies > General Office Supplies > Paper Products > Notebooks & Notepads > Memo Pads
 gid://shopify/TaxonomyCategory/os-4-9-9-5        : Office Supplies > General Office Supplies > Paper Products > Notebooks & Notepads > Notepads
 gid://shopify/TaxonomyCategory/os-4-9-9-6        : Office Supplies > General Office Supplies > Paper Products > Notebooks & Notepads > Pocket Notebooks
-gid://shopify/TaxonomyCategory/os-4-9-9-9        : Office Supplies > General Office Supplies > Paper Products > Notebooks & Notepads > Subject Notebooks
 gid://shopify/TaxonomyCategory/os-4-9-10         : Office Supplies > General Office Supplies > Paper Products > Post Cards
 gid://shopify/TaxonomyCategory/os-4-9-11         : Office Supplies > General Office Supplies > Paper Products > Printer & Copier Paper
 gid://shopify/TaxonomyCategory/os-4-9-12         : Office Supplies > General Office Supplies > Paper Products > Receipt & Adding Machine Paper Rolls
@@ -9366,6 +9326,16 @@ gid://shopify/TaxonomyCategory/sg-4-8-1          : Sporting Goods > Outdoor Recr
 gid://shopify/TaxonomyCategory/sg-4-8-2          : Sporting Goods > Outdoor Recreation > Hang Gliding & Skydiving > Hang Gliders
 gid://shopify/TaxonomyCategory/sg-4-8-3          : Sporting Goods > Outdoor Recreation > Hang Gliding & Skydiving > Parachutes
 gid://shopify/TaxonomyCategory/sg-4-9            : Sporting Goods > Outdoor Recreation > Hunting & Shooting
+gid://shopify/TaxonomyCategory/sg-4-9-7          : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft
+gid://shopify/TaxonomyCategory/sg-4-9-7-1        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft > Airsoft Gun Parts & Accessories
+gid://shopify/TaxonomyCategory/sg-4-9-7-1-1      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft > Airsoft Gun Parts & Accessories > Airsoft Gun Batteries
+gid://shopify/TaxonomyCategory/sg-4-9-7-2        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft > Airsoft Guns
+gid://shopify/TaxonomyCategory/sg-4-9-7-3        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft > Airsoft Pellets
+gid://shopify/TaxonomyCategory/sg-4-9-7-4        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft > Airsoft Protective Gear
+gid://shopify/TaxonomyCategory/sg-4-9-7-4-1      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft > Airsoft Protective Gear > Airsoft Gloves
+gid://shopify/TaxonomyCategory/sg-4-9-7-4-2      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft > Airsoft Protective Gear > Airsoft Goggles & Masks
+gid://shopify/TaxonomyCategory/sg-4-9-7-4-3      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft > Airsoft Protective Gear > Airsoft Pads
+gid://shopify/TaxonomyCategory/sg-4-9-7-4-4      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Airsoft > Airsoft Protective Gear > Airsoft Vests
 gid://shopify/TaxonomyCategory/sg-4-9-1          : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Archery
 gid://shopify/TaxonomyCategory/sg-4-9-1-1        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Archery > Archery Armguards
 gid://shopify/TaxonomyCategory/sg-4-9-1-2        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Archery > Archery Gloves & Releases
@@ -9394,9 +9364,17 @@ gid://shopify/TaxonomyCategory/sg-4-9-1-7-3-1    : Sporting Goods > Outdoor Recr
 gid://shopify/TaxonomyCategory/sg-4-9-1-7-3-2    : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Archery > Bows & Crossbows > Recurve & Longbows > Recurve Bows
 gid://shopify/TaxonomyCategory/sg-4-9-1-7-4      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Archery > Bows & Crossbows > Youth Bows
 gid://shopify/TaxonomyCategory/sg-4-9-1-8        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Archery > Quivers
+gid://shopify/TaxonomyCategory/sg-4-9-8          : Sporting Goods > Outdoor Recreation > Hunting & Shooting > BB Guns & Accessories
+gid://shopify/TaxonomyCategory/sg-4-9-8-2        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > BB Guns & Accessories > BB Gun Parts & Accessories
+gid://shopify/TaxonomyCategory/sg-4-9-8-3        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > BB Guns & Accessories > BB Guns
+gid://shopify/TaxonomyCategory/sg-4-9-8-1        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > BB Guns & Accessories > BBs
 gid://shopify/TaxonomyCategory/sg-4-9-2          : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Clay Pigeon Shooting
 gid://shopify/TaxonomyCategory/sg-4-9-2-1        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Clay Pigeon Shooting > Clay Pigeon Throwers
 gid://shopify/TaxonomyCategory/sg-4-9-2-2        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Clay Pigeon Shooting > Clay Pigeons
+gid://shopify/TaxonomyCategory/sg-4-9-9          : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Gel Blasters & Accessories
+gid://shopify/TaxonomyCategory/sg-4-9-9-1        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Gel Blasters & Accessories > Gel Balls
+gid://shopify/TaxonomyCategory/sg-4-9-9-2        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Gel Blasters & Accessories > Gel Blaster Parts & Accessories
+gid://shopify/TaxonomyCategory/sg-4-9-9-3        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Gel Blasters & Accessories > Gel Blasters
 gid://shopify/TaxonomyCategory/sg-4-9-3          : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Hunting
 gid://shopify/TaxonomyCategory/sg-4-9-3-1        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Hunting > Animal Traps
 gid://shopify/TaxonomyCategory/sg-4-9-3-2        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Hunting > Hearing Enhancers
@@ -9419,28 +9397,22 @@ gid://shopify/TaxonomyCategory/sg-4-9-3-7-4-3    : Sporting Goods > Outdoor Recr
 gid://shopify/TaxonomyCategory/sg-4-9-4          : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Hunting & Shooting Protective Gear
 gid://shopify/TaxonomyCategory/sg-4-9-4-1        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Hunting & Shooting Protective Gear > Hunting & Shooting Gloves
 gid://shopify/TaxonomyCategory/sg-4-9-4-2        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Hunting & Shooting Protective Gear > Hunting & Shooting Jackets
-gid://shopify/TaxonomyCategory/sg-4-9-5          : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft
-gid://shopify/TaxonomyCategory/sg-4-9-5-1        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Airsoft
-gid://shopify/TaxonomyCategory/sg-4-9-5-1-1      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Airsoft > Airsoft Gun Parts & Accessories
-gid://shopify/TaxonomyCategory/sg-4-9-5-1-1-1    : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Airsoft > Airsoft Gun Parts & Accessories > Airsoft Gun Batteries
-gid://shopify/TaxonomyCategory/sg-4-9-5-1-2      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Airsoft > Airsoft Guns
-gid://shopify/TaxonomyCategory/sg-4-9-5-1-3      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Airsoft > Airsoft Pellets
-gid://shopify/TaxonomyCategory/sg-4-9-5-2        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-1      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintball Grenade Launchers
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-2      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintball Grenades
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-3      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintball Gun Parts & Accessories
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-3-1    : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintball Gun Parts & Accessories > Paintball Air Tanks
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-3-2    : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintball Gun Parts & Accessories > Paintball Gun Barrels
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-3-3    : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintball Gun Parts & Accessories > Paintball Gun Drop Forwards
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-3-4    : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintball Gun Parts & Accessories > Paintball Hoppers
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-4      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintball Guns
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-5      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintball Harnesses & Packs
-gid://shopify/TaxonomyCategory/sg-4-9-5-2-6      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball > Paintballs
-gid://shopify/TaxonomyCategory/sg-4-9-5-3        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball & Airsoft Protective Gear
-gid://shopify/TaxonomyCategory/sg-4-9-5-3-1      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball & Airsoft Protective Gear > Paintball & Airsoft Gloves
-gid://shopify/TaxonomyCategory/sg-4-9-5-3-2      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball & Airsoft Protective Gear > Paintball & Airsoft Goggles & Masks
-gid://shopify/TaxonomyCategory/sg-4-9-5-3-3      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball & Airsoft Protective Gear > Paintball & Airsoft Pads
-gid://shopify/TaxonomyCategory/sg-4-9-5-3-4      : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball & Airsoft > Paintball & Airsoft Protective Gear > Paintball & Airsoft Vests
+gid://shopify/TaxonomyCategory/sg-4-9-10         : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball
+gid://shopify/TaxonomyCategory/sg-4-9-10-1       : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Grenade Launchers
+gid://shopify/TaxonomyCategory/sg-4-9-10-2       : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Grenades
+gid://shopify/TaxonomyCategory/sg-4-9-10-3       : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Gun Parts & Accessories
+gid://shopify/TaxonomyCategory/sg-4-9-10-3-1     : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Gun Parts & Accessories > Paintball Air Tanks
+gid://shopify/TaxonomyCategory/sg-4-9-10-3-2     : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Gun Parts & Accessories > Paintball Gun Barrels
+gid://shopify/TaxonomyCategory/sg-4-9-10-3-3     : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Gun Parts & Accessories > Paintball Gun Drop Forwards
+gid://shopify/TaxonomyCategory/sg-4-9-10-3-4     : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Gun Parts & Accessories > Paintball Hoppers
+gid://shopify/TaxonomyCategory/sg-4-9-10-4       : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Guns
+gid://shopify/TaxonomyCategory/sg-4-9-10-5       : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Harnesses & Packs
+gid://shopify/TaxonomyCategory/sg-4-9-10-7       : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Protective Gear
+gid://shopify/TaxonomyCategory/sg-4-9-10-7-1     : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Protective Gear > Paintball Gloves
+gid://shopify/TaxonomyCategory/sg-4-9-10-7-2     : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Protective Gear > Paintball Goggles & Masks
+gid://shopify/TaxonomyCategory/sg-4-9-10-7-3     : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Protective Gear > Paintball Pads
+gid://shopify/TaxonomyCategory/sg-4-9-10-7-4     : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintball Protective Gear > Paintball Vests
+gid://shopify/TaxonomyCategory/sg-4-9-10-6       : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Paintball > Paintballs
 gid://shopify/TaxonomyCategory/sg-4-9-6          : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Shooting & Range Accessories
 gid://shopify/TaxonomyCategory/sg-4-9-6-1        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Shooting & Range Accessories > Shooting Rests
 gid://shopify/TaxonomyCategory/sg-4-9-6-2        : Sporting Goods > Outdoor Recreation > Hunting & Shooting > Shooting & Range Accessories > Shooting Sticks & Bipods
@@ -9607,8 +9579,6 @@ gid://shopify/TaxonomyCategory/sg-4-17-4-1       : Sporting Goods > Outdoor Recr
 gid://shopify/TaxonomyCategory/sg-4-17-4-2       : Sporting Goods > Outdoor Recreation > Winter Sports & Activities > Snowshoeing > Snowshoes
 gid://shopify/TaxonomyCategory/tg                : Toys & Games
 gid://shopify/TaxonomyCategory/tg-1              : Toys & Games > Game Timers
-gid://shopify/TaxonomyCategory/tg-1-2            : Toys & Games > Game Timers > Chess Clocks
-gid://shopify/TaxonomyCategory/tg-1-4            : Toys & Games > Game Timers > Sand Timers
 gid://shopify/TaxonomyCategory/tg-2              : Toys & Games > Games
 gid://shopify/TaxonomyCategory/tg-2-1            : Toys & Games > Games > Battle Top Accessories
 gid://shopify/TaxonomyCategory/tg-2-2            : Toys & Games > Games > Battle Tops
@@ -9620,9 +9590,7 @@ gid://shopify/TaxonomyCategory/tg-2-5            : Toys & Games > Games > Board 
 gid://shopify/TaxonomyCategory/tg-2-6            : Toys & Games > Games > Card Game Accessories
 gid://shopify/TaxonomyCategory/tg-2-7            : Toys & Games > Games > Card Games
 gid://shopify/TaxonomyCategory/tg-2-8            : Toys & Games > Games > Dexterity Games
-gid://shopify/TaxonomyCategory/tg-2-8-3          : Toys & Games > Games > Dexterity Games > Fidget Toys
 gid://shopify/TaxonomyCategory/tg-2-9            : Toys & Games > Games > Dice Sets & Games
-gid://shopify/TaxonomyCategory/tg-2-9-3          : Toys & Games > Games > Dice Sets & Games > Role-Playing Games
 gid://shopify/TaxonomyCategory/tg-2-10           : Toys & Games > Games > Poker Chip Accessories
 gid://shopify/TaxonomyCategory/tg-2-10-1         : Toys & Games > Games > Poker Chip Accessories > Poker Chip Carriers & Trays
 gid://shopify/TaxonomyCategory/tg-2-11           : Toys & Games > Games > Poker Chips & Sets

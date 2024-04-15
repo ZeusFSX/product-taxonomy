@@ -1,4 +1,4 @@
-# Shopify Product Taxonomy - Attribute Values: 0.15.0
+# Shopify Product Taxonomy - Attribute Values: 0.16.0
 # Format: {GID} : {Value name} [{Attribute name}]
 
 gid://shopify/TaxonomyValue/8015  : #10 [Paper size]

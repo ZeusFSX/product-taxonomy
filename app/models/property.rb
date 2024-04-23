@@ -22,6 +22,23 @@ class Property < ApplicationRecord
   validates :name, presence: true
 
   def gid
-    "gid://shopify/TaxonomyAttribute/#{id}"
+    if abstract?
+      parent.gid
+    else
+      "gid://shopify/TaxonomyAttribute/#{id}"
+    end
+  end
+
+  # correct mental model wise, but I wonder on if this hurts other queries we wanna do
+  def property_values
+    if abstract?
+      parent.property_values
+    else
+      super
+    end
+  end
+
+  def abstract?
+    parent.present?
   end
 end

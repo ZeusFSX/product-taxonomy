@@ -16,19 +16,20 @@ module DB
     end
 
     def attributes_from(data)
+      standard_attributes, reference_attributes = data.partition { _1["values_from"].nil? }
+
       vputs("Importing properties")
-      properties = SourceData::PropertySerializer.deserialize_for_insert_all(data)
-      Property.insert_all(properties)
+      standard_properties = SourceData::BasePropertySerializer.deserialize_for_insert_all(standard_attributes)
+      Property.insert_all(standard_properties)
+      extended_properties = SourceData::ExtendedPropertySerializer.deserialize_for_insert_all(reference_attributes)
+      Property.insert_all(extended_properties)
       vputs("✓ Imported #{Property.count} properties")
 
       vputs("Importing property ↔ value relationships")
-      standard_attributes, reference_attributes = data.partition { _1["values_from"].nil? }
-      standard_attribute_joins = SourceData::PropertySerializer.deserialize_for_join_insert_all(standard_attributes)
-      PropertiesPropertyValue.insert_all!(standard_attribute_joins)
-
-      reference_attribute_joins = SourceData::PropertySerializer.deserialize_for_join_insert_all(reference_attributes)
-      PropertiesPropertyValue.insert_all(reference_attribute_joins)
-
+      standard_property_joins = SourceData::BasePropertySerializer.deserialize_for_join_insert_all(standard_attributes)
+      PropertiesPropertyValue.insert_all!(standard_property_joins)
+      extended_property_joins = SourceData::ExtendedPropertySerializer.deserialize_for_join_insert_all(reference_attributes)
+      PropertiesPropertyValue.insert_all(extended_property_joins)
       vputs("✓ Imported #{PropertiesPropertyValue.count} property ↔ value relationships")
     end
 

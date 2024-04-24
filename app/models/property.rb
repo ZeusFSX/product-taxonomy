@@ -3,6 +3,9 @@
 class Property < ApplicationRecord
   default_scope { order(:name) }
 
+  scope :concrete, -> { where(parent_friendly_id: nil) }
+  scope :abstract, -> { where.not(parent_friendly_id: nil) }
+
   has_many :categories_properties, dependent: :destroy, foreign_key: :property_friendly_id, primary_key: :friendly_id
   has_many :categories, through: :categories_properties
 
@@ -12,6 +15,11 @@ class Property < ApplicationRecord
   belongs_to :parent,
     class_name: "Property",
     optional: true,
+    foreign_key: :parent_friendly_id,
+    primary_key: :friendly_id
+
+  has_many :children,
+    class_name: "Property",
     foreign_key: :parent_friendly_id,
     primary_key: :friendly_id
 
@@ -26,6 +34,14 @@ class Property < ApplicationRecord
       parent.gid
     else
       "gid://shopify/TaxonomyAttribute/#{id}"
+    end
+  end
+
+  def name
+    if abstract?
+      parent.name
+    else
+      super
     end
   end
 

@@ -1311,6 +1311,10 @@ rules:
   output:
     product_category_id: '6406'
 - input:
+    product_category_id: ap-2-26-7-1
+  output:
+    product_category_id: '6406'
+- input:
     product_category_id: ap-2-26-8
   output:
     product_category_id: '499917'
